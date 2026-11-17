@@ -1,5 +1,5 @@
 # Digital-wallet-payment-and-consumer-choice-project
-Analyze a dataset on digital wallet transactions in Kenya to understand what customers spend on, how they spend, where and when they pay, and where payments fail. The aim is to recommend ways to improve the wallet experience.
+Analyze a dataset on AI generated digital wallet transactions dataset of Kenya to understand what customers spend on, how they spend, where and when they pay, and where payments fail. The aim is to recommend ways to improve the wallet experience.
 
 #Team Memebrs
 | No. | Full Name | Student ID |
