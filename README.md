@@ -4,7 +4,7 @@ Analyze a dataset on AI generated digital wallet transactions dataset of Kenya t
 # Project 06: Digital Wallet Transactions and Consumer Habits
 
 DSA 1080A Programming for Data Science | Future Data Lab group project
-**Group:** [Group name] | **Repository:** [GitHub URL]
+**Group:** [Group name] | **Repository:** https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project.git
 
 ## Project overview
 We analyse 2025 digital wallet transactions in Kenya to understand what customers spend on, how, where and when they pay, and where payments fail. The work uses Python, Pandas and Matplotlib only.
