@@ -4,10 +4,10 @@ Analyze a dataset on AI generated digital wallet transactions dataset of Kenya t
 # Project 06: Digital Wallet Transactions and Consumer Habits
 
 DSA 1080A Programming for Data Science | Future Data Lab group project
-**Group:** [Group name] | **Repository:** https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project.git
+**Group:** 06 | **Repository:** https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project.git
 
 ## Project overview
-We analyse 2025 digital wallet transactions in Kenya to understand what customers spend on, how, where and when they pay, and where payments fail. The work uses Python, Pandas and Matplotlib only.
+We analysed 2025 digital wallet transactions in Kenya to understand what customers spend on, how, where and when they pay, and where payments fail. The work uses Python, Pandas and Matplotlib only.
 
 **Specific objectives**
 1. Identify the spending categories, customer segments and regions that account for most transaction value.
@@ -23,7 +23,7 @@ We analyse 2025 digital wallet transactions in Kenya to understand what customer
 6. Which payment channels have the highest failure rate?
 7. Do failed or reversed transactions differ in amount from successful ones?
 
-#Team Memebrs
+Team Members
 | No. | Full Name | Student ID |
 | --- | --- | --- |
 | 1. | Yuvraj Rajankumar Thorat | 202604918 |
@@ -31,5 +31,6 @@ We analyse 2025 digital wallet transactions in Kenya to understand what customer
 | 3. | Nduta Gathigi | 202616126 |
 | 4. | Morris Muhia | 202618102 |
 | 5. | Ismail Hassan | 202606767 |
+| 6. | Jediel Njagi Wambura | 2026014700 |
 
 
