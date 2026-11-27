@@ -71,7 +71,7 @@ Team Members
 
 **Files**
 - Notebook: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/notebook/02_exploration.ipynb
-- Data dictionary: `data/DATA_DICTIONARY.md`
+- Data dictionary: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/data_dictionary.md
 - Quality audit: `report/quality_audit.csv`
 
 
