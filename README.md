@@ -54,8 +54,6 @@ We analysed a synthetic 2025 digital wallet transactions dataset of Kenya to und
 
 ## Week 2 Roles and Contributions
 
-## Week 2 Roles and Contributions
-
 | Member | Role | Week 2 task | Brief item | Files |
 |---|---|---|---|---|
 | NAME | Project lead | Wrote the five initial observations with evidence, updated the README and progress table, checked that everyone committed | 6 | `README.md`, observations section of `notebooks/02_exploration.ipynb` |
