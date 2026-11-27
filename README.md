@@ -61,15 +61,19 @@ We analysed 2025 digital wallet transactions in Kenya to understand what custome
 - Built a quality audit table listing each problem, how many rows it affects and how we plan to fix it.
 - The source data was not changed in Week 2. Cleaning starts in Week 3.
 
-**Key findings**
-- The raw file has 18,000 rows and 10 columns, which meets the minimum requirement, and it has no fully duplicated rows.
-- There are 1,330 missing cells across 1,300 rows (7.2% of rows).
-- `amount` is stored as text and contains values like `unknown`, negatives, zeros and extreme values.
-- 1,733 values in the category columns have spelling or casing errors.
-- 22 timestamps cannot be read and 62 are missing.
-- 35 transaction IDs appear more than once on different transactions.
+### Initial observations
+1. The dataset has **18,000 rows and 10 columns**, so it meets the 15,000 × 10 requirement.
+2. Nine of the ten columns are stored as text. `amount` is `object` because 14 entries are not valid numbers, and `timestamp` is text rather than a date.
+3. Every column except `transaction_id` has blanks (1,330 blank cells in total). `customer_segment` (1.50%) and `payment_channel` (1.34%) have the most.
+4. The median amount is about KES 1,008, but the mean is about KES 281,806, pulled up by five values of 999,999,999.
+5. Before cleaning, Mobile Wallet is the largest channel (33.3% of all rows), Nairobi the largest region (30.8%), and 90.1% of transactions are labelled Successful. These shares will change slightly after spelling variants are merged.
 
-**Files**
+### Potential data-quality issues
+1. **Inconsistent category labels.** `merchant_category` has 32 labels but only 13 intended categories. Counting without fixing this would split and understate groups.
+2. **Invalid and extreme amounts.** 14 text entries, 15 negatives, 7 zeros and 5 values of 999,999,999 would distort totals and averages.
+3. **Invalid timestamps and repeated IDs.** 22 timestamps cannot be parsed and 35 transaction IDs appear more than once with different details. This affects time-based analysis and any assumption that IDs are unique.
+
+**FULL EVIDENCE**
 - Notebook: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/notebook/02_exploration.ipynb
 - Data dictionary: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/data_dictionary.md
 - Quality audit:https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/quality_audit.md
