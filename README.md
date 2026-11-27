@@ -44,5 +44,35 @@ Team Members
 | Ishmail | Schema Documentation | SCHEMA.md (review and verify column descriptions) |
 | Morris | Notebook Updates and Evidence | Notebook changes and project screenshots |
 
+## Project Progress for WEEK 2
+
+| Week | Focus | Deliverables | Status |
+|---|---|---|---|
+| 1 | Problem definition, data acquisition, GitHub setup | Proposal, objectives and research questions, dataset source notes, `01_week1_intro.ipynb`, dataset schema | Done |
+| 2 | Inspect, validate and profile the dataset | `02_exploration.ipynb`, data dictionary, quality audit table | Done |
+| 3 | Cleaning and first analysis | | In progress |
+
+## Week 2: Data Inspection and Quality Audit
+
+**What we did**
+- Loaded the raw dataset with Pandas and inspected it using `head()`, `tail()`, `shape`, `info()`, `dtypes` and `describe()`.
+- Wrote reusable functions (`validate_columns()`, `summarize_missingness()`, `find_invalid_categories()`) to check the data.
+- Built a data dictionary covering all 10 columns (type, meaning, valid values, expected missing values).
+- Built a quality audit table listing each problem, how many rows it affects and how we plan to fix it.
+- The source data was not changed in Week 2. Cleaning starts in Week 3.
+
+**Key findings**
+- The raw file has 18,000 rows and 10 columns, which meets the minimum requirement, and it has no fully duplicated rows.
+- There are 1,330 missing cells across 1,300 rows (7.2% of rows).
+- `amount` is stored as text and contains values like `unknown`, negatives, zeros and extreme values.
+- 1,733 values in the category columns have spelling or casing errors.
+- 22 timestamps cannot be read and 62 are missing.
+- 35 transaction IDs appear more than once on different transactions.
+
+**Files**
+- Notebook: `notebooks/02_exploration.ipynb`
+- Data dictionary: `data/DATA_DICTIONARY.md`
+- Quality audit: `report/quality_audit.csv`
+
 
 
