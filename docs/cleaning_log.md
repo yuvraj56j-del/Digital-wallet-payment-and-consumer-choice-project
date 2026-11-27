@@ -1,8 +1,6 @@
 # Cleaning Log (Week 3)
 
-Every cleaning decision is recorded here with its reason. The raw file `data/raw/digital_payment_transactions_dirty.xlsx` is never changed; all fixes are made on a copy (`df_clean`) saved to `data/processed/digital_payment_transactions_clean.csv`.
-
-**How to use this file:** Member 2 creates it with their rows; Members 3 and 4 add theirs; Member 5 completes and checks it. The "rows affected" counts below come from the Week 2 audit (before cleaning). **Check each one against your own notebook output and edit any row where the group chose a different treatment.**
+Every cleaning decision is recorded here with its reason. The raw file `data/raw/digital_payment_transactions_dirty.xlsx` is never changed; all fixes are made on a copy (`df_clean`) saved to `data/processed/digital_payment_transactions_cleaned.csv`.
 
 | # | Column(s) | Problem found | Rows affected | Treatment | Reason | Member |
 |---|---|---|---|---|---|---|
@@ -17,7 +15,7 @@ Every cleaning decision is recorded here with its reason. The raw file `data/raw
 | 9 | day_of_week | Spelling variants and 144 blanks | 310 spelling variants corrected; 144 blanks rebuilt (0 weekday mismatches found against valid timestamps) | Rebuilt from the timestamp where the timestamp is valid | The timestamp is the more reliable source | 4 |
 | 10 | all columns | Row count after cleaning | 18,000 before and after | No rows dropped | Keeps the dataset above the 15,000 row minimum | 5 |
 
-## Validation (Member 5)
+## Validation
 - Raw rows x columns: 18,000 x 10. Processed rows x columns: 18,000 x 17 (the extra columns are the flags and date parts).
-- `meets_size()` result: True. Processed file: `data/processed/digital_payment_transactions_clean.csv`.
+- `meets_size()` result: True. Processed file: `data/processed/digital_payment_transactions_cleaned.csv`.
 - Before/after summary: see section 9 of `notebooks/03_cleaning_analysis.ipynb`.

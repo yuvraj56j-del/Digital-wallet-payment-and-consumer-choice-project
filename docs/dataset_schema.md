@@ -6,7 +6,7 @@
 
 | # | Column | Type (intended) | Meaning | Expected values / units |
 |---|---|---|---|---|
-| 1 | transaction_id | text (ID) | Transaction reference | Format `TXN2025xxxxxx` |
+| 1 | transaction_id | text (ID) | Transaction reference | Format `TXN2025` + 7 digits (14 characters) |
 | 2 | timestamp | datetime | Date and time of the payment | `YYYY-MM-DD HH:MM:SS`, in 2025 |
 | 3 | merchant_category | categorical | What the payment was for | Groceries, Food & Dining, Transport, Shopping, Utilities, Entertainment, Fuel, Healthcare, Education, Cash Transfer, Subscriptions, Government Services, Travel |
 | 4 | amount | numeric (float) | Transaction value | KES, expected > 0 |
