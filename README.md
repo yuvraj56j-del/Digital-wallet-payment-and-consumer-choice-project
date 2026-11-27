@@ -54,13 +54,15 @@ We analysed a synthetic 2025 digital wallet transactions dataset of Kenya to und
 
 ## Week 2 Roles and Contributions
 
+## Week 2 Roles and Contributions
+
 | Member | Role | Week 2 task | Brief item | Files |
 |---|---|---|---|---|
-| `<Name 1>` | Project lead | Wrote the five initial observations with evidence, updated the README and progress table, checked that everyone committed | 6 | `README.md`, observations section of `notebooks/02_exploration.ipynb` |
-| `<Name 2>` | Data lead | Built and checked the data dictionary for all 10 columns (type, meaning, categories, expected missing values) | 3 | `data/DATA_DICTIONARY.md` |
-| `<Yuvraj Rajankumar Thorat>` | Loading and first-look lead | Loaded the data from a relative path and ran `head(10)`, `tail(5)`, `shape`, `info()`, `dtypes` and `describe(include="all")` | 1, 2 | `notebooks/02_exploration.ipynb` (sections 1-2) |
-| `<Name 4>` | Validation lead | Wrote the reusable functions (`validate_columns()`, `summarize_missingness()`) and ran the checks for nulls, duplicates, invalid amounts, categories and date parsing without changing the source data | 4, 5 | `notebooks/02_exploration.ipynb` (sections 3-4) |
-| `<Name 5>` | Audit lead | Wrote the quality audit table and the three potential data-quality issues with evidence | 4, 6 | `report/quality_audit.csv`, issues section of `notebooks/02_exploration.ipynb` |
+| NAME | Project lead | Wrote the five initial observations with evidence, updated the README and progress table, checked that everyone committed | 6 | `README.md`, observations section of `notebooks/02_exploration.ipynb` |
+| NAME | Data lead | Built and checked the data dictionary for all 10 columns (type, meaning, categories, expected missing values) | 3 | `docs/data_dictionary.md` |
+| NAME | Loading and first-look lead | Loaded the data from a relative path and ran `head(10)`, `tail(5)`, `shape`, `info()`, `dtypes` and `describe(include="all")` | 1, 2 | `notebooks/02_exploration.ipynb` (sections 1-2) |
+| NAME | Validation lead | Wrote the reusable functions (`validate_columns()`, `summarize_missingness()`) and ran the checks for nulls, duplicates, invalid amounts, categories and date parsing without changing the source data | 4, 5 | `notebooks/02_exploration.ipynb` (sections 3-4) |
+| NAME | Audit lead | Wrote the quality audit table and the three potential data-quality issues with evidence | 4, 6 | `docs/quality_audit.md`, issues section of `notebooks/02_exploration.ipynb` |
 
 *Jediel joined the group at the start of Week 3, so he has no Week 1 or Week 2 tasks.*
 
