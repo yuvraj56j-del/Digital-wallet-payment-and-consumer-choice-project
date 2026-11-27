@@ -34,7 +34,7 @@ Team Members
 | 6. | Jediel Njagi Wambura | 2026014700 |
 
 
-## Team Member Responsibilities
+## Team Member Responsibilities for WEEK ONE
 
 | Member Name | Responsibility | Deliverable |
 |------------|---------------|-------------|
