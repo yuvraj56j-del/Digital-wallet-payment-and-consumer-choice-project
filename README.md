@@ -7,7 +7,7 @@ DSA 1080A Programming for Data Science | Future Data Lab group project
 **Group:** 06 | **Repository:** https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project.git
 
 ## Project overview
-We analysed a synthethic 2025 digital wallet transactions dataset of Kenya to understand what customers spend on, how, where and when they pay, and where payments fail. The work uses Python, Pandas and Matplotlib only.
+We analysed a synthetic 2025 digital wallet transactions dataset of Kenya to understand what customers spend on, how, where and when they pay, and where payments fail. The work uses Python, Pandas and Matplotlib only.
 
 **Specific objectives**
 1. Identify the spending categories, customer segments and regions that account for most transaction value.
@@ -44,11 +44,11 @@ We analysed a synthethic 2025 digital wallet transactions dataset of Kenya to un
 | Ishmail | Schema Documentation | SCHEMA.md (review and verify column descriptions) |
 | Morris | Notebook Updates and Evidence | Notebook changes and project screenshots |
 
-## Project Progress for WEEK 2
+## Project Progress
 
 | Week | Focus | Deliverables | Status |
 |---|---|---|---|
-| 1 | Problem definition, data acquisition, GitHub setup | Proposal, objectives and research questions, dataset source notes, `01_foundation.ipynb`, dataset schema | Done |
+| 1 | Problem definition, data acquisition, GitHub setup | Proposal, objectives and research questions, dataset source notes, `01_foundations.ipynb`, dataset schema | Done |
 | 2 | Inspect, validate and profile the dataset | `02_exploration.ipynb`, data dictionary, quality audit table | Done |
 | 3 | Cleaning and first analysis | | In progress |
 
@@ -61,6 +61,9 @@ We analysed a synthethic 2025 digital wallet transactions dataset of Kenya to un
 | `<Yuvraj Rajankumar Thorat>` | Loading and first-look lead | Loaded the data from a relative path and ran `head(10)`, `tail(5)`, `shape`, `info()`, `dtypes` and `describe(include="all")` | 1, 2 | `notebooks/02_exploration.ipynb` (sections 1-2) |
 | `<Name 4>` | Validation lead | Wrote the reusable functions (`validate_columns()`, `summarize_missingness()`) and ran the checks for nulls, duplicates, invalid amounts, categories and date parsing without changing the source data | 4, 5 | `notebooks/02_exploration.ipynb` (sections 3-4) |
 | `<Name 5>` | Audit lead | Wrote the quality audit table and the three potential data-quality issues with evidence | 4, 6 | `report/quality_audit.csv`, issues section of `notebooks/02_exploration.ipynb` |
+
+*Jediel joined the group at the start of Week 3, so he has no Week 1 or Week 2 tasks.*
+
 ## Data Inspection and Quality Audit
 
 **What we did**
@@ -83,9 +86,9 @@ We analysed a synthethic 2025 digital wallet transactions dataset of Kenya to un
 3. **Time and ID problems:** 22 timestamps cannot be read as dates, and 35 transaction IDs are repeated across transactions with different details. This weakens any time-based analysis and means IDs cannot be treated as unique.
 
 **Where to find the evidence**
-- Notebook: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/notebook/02_exploration.ipynb
+- Notebook: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/notebooks/02_exploration.ipynb
 - Data dictionary: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/data_dictionary.md
-- Quality audit:https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/quality_audit.md
+- Quality audit: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/quality_audit.md
 
 
 
