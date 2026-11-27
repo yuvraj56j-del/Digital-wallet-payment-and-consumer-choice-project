@@ -23,7 +23,7 @@ We analysed 2025 digital wallet transactions in Kenya to understand what custome
 6. Which payment channels have the highest failure rate?
 7. Do failed or reversed transactions differ in amount from successful ones?
 
-Team Members
+**Team Members**
 | No. | Full Name | Student ID |
 | --- | --- | --- |
 | 1. | Yuvraj Rajankumar Thorat | 202604918 |
