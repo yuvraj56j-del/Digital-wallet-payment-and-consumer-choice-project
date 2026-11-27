@@ -61,19 +61,19 @@ We analysed 2025 digital wallet transactions in Kenya to understand what custome
 - Built a quality audit table listing each problem, how many rows it affects and how we plan to fix it.
 - The source data was not changed in Week 2. Cleaning starts in Week 3.
 
-### Initial observations
-1. The dataset has **18,000 rows and 10 columns**, so it meets the 15,000 × 10 requirement.
-2. Nine of the ten columns are stored as text. `amount` is `object` because 14 entries are not valid numbers, and `timestamp` is text rather than a date.
-3. Every column except `transaction_id` has blanks (1,330 blank cells in total). `customer_segment` (1.50%) and `payment_channel` (1.34%) have the most.
-4. The median amount is about KES 1,008, but the mean is about KES 281,806, pulled up by five values of 999,999,999.
-5. Before cleaning, Mobile Wallet is the largest channel (33.3% of all rows), Nairobi the largest region (30.8%), and 90.1% of transactions are labelled Successful. These shares will change slightly after spelling variants are merged.
+### What we learned about the data
+- **Size:** the file holds 18,000 transactions across 10 columns, which is above the project minimum of 15,000 rows and 10 columns.
+- **Data types:** nine columns are stored as plain text. `amount` shows as `object` because 14 of its entries are not real numbers, and `timestamp` is text instead of a proper date.
+- **Missing values:** every column except `transaction_id` has some blanks, adding up to 1,330 empty cells. The most affected columns are `customer_segment` (1.50%) and `payment_channel` (1.34%).
+- **Amount distribution:** the typical (median) amount is about KES 1,008, yet the average is about KES 281,806. Five placeholder-sized entries of 999,999,999 are responsible for the gap.
+- **Early patterns (before cleaning):** Mobile Wallet is the most common channel (33.3% of rows), Nairobi the most common region (30.8%), and 90.1% of transactions are marked Successful. These shares may shift slightly once spelling variants are merged.
 
-### Potential data-quality issues
-1. **Inconsistent category labels.** `merchant_category` has 32 labels but only 13 intended categories. Counting without fixing this would split and understate groups.
-2. **Invalid and extreme amounts.** 14 text entries, 15 negatives, 7 zeros and 5 values of 999,999,999 would distort totals and averages.
-3. **Invalid timestamps and repeated IDs.** 22 timestamps cannot be parsed and 35 transaction IDs appear more than once with different details. This affects time-based analysis and any assumption that IDs are unique.
+### Problems we need to fix
+1. **Messy category labels:** `merchant_category` contains 32 different labels, although only 13 categories are intended. The extras are differences in capitalisation, spacing and spelling. Left as they are, they would split real categories into several smaller groups.
+2. **Unusable amounts:** 14 text entries, 15 negative values, 7 zeros and the five 999,999,999 entries would throw off totals and averages.
+3. **Time and ID problems:** 22 timestamps cannot be read as dates, and 35 transaction IDs are repeated across transactions with different details. This weakens any time-based analysis and means IDs cannot be treated as unique.
 
-**FULL EVIDENCE**
+**Where to find the evidence**
 - Notebook: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/notebook/02_exploration.ipynb
 - Data dictionary: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/data_dictionary.md
 - Quality audit:https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/quality_audit.md
