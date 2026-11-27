@@ -66,11 +66,11 @@ We analysed a synthetic 2025 digital wallet transactions dataset of Kenya to und
 
 *Jediel joined the group at the start of Week 3, so he has no Week 1 or Week 2 tasks.*
 
-## Data Inspection and Quality Audit
+## Week 2: Data Inspection and Quality Audit
 
 **What we did**
 - Loaded the raw dataset with Pandas and inspected it using `head()`, `tail()`, `shape`, `info()`, `dtypes` and `describe()`.
-- Wrote reusable functions (`validate_columns()`, `summarize_missingness()`, `find_invalid_categories()`) to check the data.
+- Wrote reusable functions (`validate_columns()`, `summarize_missingness()`, `summarize_categories()`) to check the data.
 - Built a data dictionary covering all 10 columns (type, meaning, valid values, expected missing values).
 - Built a quality audit table listing each problem, how many rows it affects and how we plan to fix it.
 - The source data was not changed in Week 2. Cleaning starts in Week 3.
