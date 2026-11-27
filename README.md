@@ -70,7 +70,7 @@ Team Members
 - 35 transaction IDs appear more than once on different transactions.
 
 **Files**
-- Notebook: `notebooks/02_exploration.ipynb`
+- Notebook: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/notebook/02_exploration.ipynb
 - Data dictionary: `data/DATA_DICTIONARY.md`
 - Quality audit: `report/quality_audit.csv`
 
