@@ -244,7 +244,7 @@ TXN20250017476,2025-06-14 16:04:21,Fuel,3274.38,KES,Mobile Wallet,Small Business
 TXN20250013977,2025-10-26 08:24:43,Healthcare,6171.71,KES,QR Payment,Self-Employed,Nairobi,Successful,Sunday,False,False,False,False,10,8,Sunday
 TXN20250016078,2025-12-29 02:51:25,Healthcare,636.85,KES,Web Checkout,Student,Other,Successful,Monday,False,False,False,False,12,2,Monday
 TXN20250003362,2025-05-29 11:58:52,Food & Dining,1703.9,KES,USSD,Gig Worker,Nakuru,Successful,Thursday,False,False,False,False,5,11,Thursday
-TXN20250011227 ,2025-06-21 18:23:49,Food & Dining,1247.32,KES,Web Checkout,Small Business Owner,Kisumu,Successful,Saturday,False,False,False,False,6,18,Saturday
+TXN20250011227,2025-06-21 18:23:49,Food & Dining,1247.32,KES,Web Checkout,Small Business Owner,Kisumu,Successful,Saturday,False,False,False,False,6,18,Saturday
 TXN20250016959,2025-08-12 01:20:18,Education,1430.26,KES,Mobile Wallet,Salaried Employee,Nakuru,Successful,Tuesday,False,False,False,False,8,1,Tuesday
 TXN20250003879,2025-03-27 02:09:30,Subscriptions,1344.64,KES,NFC / Contactless,Student,Nyeri,Successful,Thursday,False,False,False,False,3,2,Thursday
 TXN20250012511,2025-08-24 13:13:22,Entertainment,202.32,KES,USSD,Small Business Owner,Nairobi,Successful,Sunday,False,False,False,False,8,13,Sunday
@@ -974,7 +974,7 @@ TXN20250002940,2025-07-03 19:06:43,Transport,180.63,KES,Mobile Wallet,Small Busi
 TXN20250017310,2025-04-28 00:07:23,Transport,162.2,KES,USSD,Gig Worker,Nyeri,Failed,Monday,False,False,False,False,4,0,Monday
 TXN20250017006,2025-09-15 14:46:56,Groceries,613.89,KES,USSD,Salaried Employee,Nairobi,Successful,Monday,False,False,False,False,9,14,Monday
 TXN20250002388,2025-11-25 21:52:04,Groceries,1786.87,KES,USSD,Salaried Employee,Kakamega,Successful,Tuesday,False,False,False,False,11,21,Tuesday
-TXN20250016317 ,2025-03-13 12:39:17,Education,344.9,KES,Web Checkout,Small Business Owner,Nyeri,Successful,Thursday,False,False,False,False,3,12,Thursday
+TXN20250016317,2025-03-13 12:39:17,Education,344.9,KES,Web Checkout,Small Business Owner,Nyeri,Successful,Thursday,False,False,False,False,3,12,Thursday
 TXN20250017903,2025-04-14 06:15:19,Food & Dining,435.12,KES,Web Checkout,Student,Nairobi,Successful,Monday,False,False,False,False,4,6,Monday
 TXN20250010227,2025-02-13 19:04:25,Utilities,2554.42,KES,Mobile Wallet,Self-Employed,Kiambu,Successful,Thursday,False,False,False,False,2,19,Thursday
 TXN20250007781,2025-10-06 18:37:07,Transport,372.96,KES,Mobile Wallet,Retired,Nairobi,Successful,Monday,False,False,False,False,10,18,Monday
@@ -996,7 +996,7 @@ TXN20250010496,2025-06-14 23:35:15,Shopping,1439.61,KES,Mobile Wallet,Self-Emplo
 TXN20250001515,2025-04-28 08:23:52,Groceries,2144.36,KES,USSD,Self-Employed,Nairobi,Successful,Monday,False,False,False,False,4,8,Monday
 TXN20250014549,2025-05-21 22:22:48,Healthcare,978.83,KES,USSD,Retired,Mombasa,Successful,Wednesday,False,False,False,False,5,22,Wednesday
 TXN20250007072,2025-10-12 03:29:03,Transport,781.07,KES,USSD,Retired,Nairobi,Failed,Sunday,False,False,False,False,10,3,Sunday
-TXN20250004758 ,2025-08-17 01:49:30,Transport,420.35,KES,NFC / Contactless,Self-Employed,Kisumu,Successful,Sunday,False,False,False,False,8,1,Sunday
+TXN20250004758,2025-08-17 01:49:30,Transport,420.35,KES,NFC / Contactless,Self-Employed,Kisumu,Successful,Sunday,False,False,False,False,8,1,Sunday
 TXN20250016579,2025-03-13 13:13:13,Groceries,1527.43,KES,In-App Payment,Student,Kiambu,Successful,Thursday,False,False,False,False,3,13,Thursday
 TXN20250010016,2025-11-25 22:06:14,Groceries,588.92,KES,QR Payment,Gig Worker,Nairobi,Successful,Tuesday,False,False,False,False,11,22,Tuesday
 TXN20250008468,2025-04-12 14:06:10,Food & Dining,,KES,Mobile Wallet,Self-Employed,Nairobi,Successful,Saturday,False,False,False,False,4,14,Saturday
@@ -1392,7 +1392,7 @@ TXN20250009634,2025-11-14 17:07:23,Government Services,665.84,KES,Mobile Wallet,
 TXN20250004352,2025-07-18 21:02:53,Food & Dining,1409.34,KES,NFC / Contactless,Retired,Eldoret,Successful,Friday,False,False,False,False,7,21,Friday
 TXN20250006373,2025-10-06 07:01:05,Education,666.92,KES,USSD,Salaried Employee,Kisumu,Successful,Monday,False,False,False,False,10,7,Monday
 TXN20250011239,2025-12-20 17:33:40,Shopping,1007.64,KES,In-App Payment,Small Business Owner,Kiambu,Successful,Saturday,False,False,False,False,12,17,Saturday
-TXN20250000566 ,2025-10-04 05:49:21,Transport,178.88,KES,USSD,Retired,Kisumu,Successful,Saturday,False,False,False,False,10,5,Saturday
+TXN20250000566,2025-10-04 05:49:21,Transport,178.88,KES,USSD,Retired,Kisumu,Successful,Saturday,False,False,False,False,10,5,Saturday
 TXN20250006667,2025-05-07 02:00:45,Food & Dining,1147.93,KES,NFC / Contactless,Gig Worker,Nyeri,Successful,Wednesday,False,False,False,False,5,2,Wednesday
 TXN20250009622,2025-04-11 07:37:43,Education,3602.76,KES,Mobile Wallet,Gig Worker,Nairobi,Successful,Friday,False,False,False,False,4,7,Friday
 TXN20250014931,2025-07-14 17:33:13,Utilities,4281.15,KES,QR Payment,Student,Kiambu,Successful,Monday,False,False,False,False,7,17,Monday
@@ -1933,7 +1933,7 @@ TXN20250009094,2025-07-29 13:00:25,Travel,3173.53,KES,NFC / Contactless,Small Bu
 TXN20250009245,2025-07-14 19:53:07,Food & Dining,3417.94,KES,In-App Payment,Gig Worker,Machakos,Reversed,Monday,False,False,False,False,7,19,Monday
 TXN20250017385,2025-10-06 02:32:46,Fuel,7884.48,KES,NFC / Contactless,Student,Kiambu,Reversed,Monday,False,False,False,False,10,2,Monday
 TXN20250000633,2025-09-16 07:10:42,Utilities,1533.35,KES,Web Checkout,Student,Machakos,Successful,Tuesday,False,False,False,False,9,7,Tuesday
-TXN20250004423 ,2025-10-01 17:29:50,Entertainment,462.58,KES,NFC / Contactless,Salaried Employee,Nyeri,Successful,Wednesday,False,False,False,False,10,17,Wednesday
+TXN20250004423,2025-10-01 17:29:50,Entertainment,462.58,KES,NFC / Contactless,Salaried Employee,Nyeri,Successful,Wednesday,False,False,False,False,10,17,Wednesday
 TXN20250007772,2025-09-07 21:03:28,Food & Dining,376.77,KES,NFC / Contactless,Self-Employed,Nairobi,Successful,Sunday,False,False,False,False,9,21,Sunday
 TXN20250014715,2025-05-24 23:00:34,Cash Transfer,6803.81,KES,USSD,Other,Nyeri,Successful,Saturday,False,False,False,False,5,23,Saturday
 TXN20250012763,2025-02-16 18:49:35,Fuel,742.69,KES,Mobile Wallet,Small Business Owner,Nairobi,Successful,Sunday,False,False,False,False,2,18,Sunday
@@ -2227,7 +2227,7 @@ TXN20250003177,2025-07-10 11:26:29,Healthcare,861.36,KES,Mobile Wallet,Small Bus
 TXN20250010215,2025-03-28 15:57:28,Food & Dining,,KES,USSD,Student,Nakuru,Successful,Friday,False,False,False,False,3,15,Friday
 TXN20250015100,2025-08-07 11:41:21,Fuel,1465.57,KES,QR Payment,Salaried Employee,Kisumu,Failed,Thursday,False,False,False,False,8,11,Thursday
 TXN20250010806,2025-03-03 23:26:25,Shopping,1198.77,KES,QR Payment,Self-Employed,Unknown,Successful,Monday,False,False,False,False,3,23,Monday
-TXN20250000345 ,2025-08-28 13:19:27,Healthcare,98.11,KES,Mobile Wallet,Gig Worker,Eldoret,Successful,Thursday,False,False,False,False,8,13,Thursday
+TXN20250000345,2025-08-28 13:19:27,Healthcare,98.11,KES,Mobile Wallet,Gig Worker,Eldoret,Successful,Thursday,False,False,False,False,8,13,Thursday
 TXN20250013584,2025-06-28 04:58:21,Shopping,1858.73,KES,Mobile Wallet,Small Business Owner,Nakuru,Successful,Saturday,False,False,False,False,6,4,Saturday
 TXN20250014354,2025-02-10 00:10:25,Unknown,1066.89,KES,Web Checkout,Other,Eldoret,Successful,Monday,False,False,False,False,2,0,Monday
 TXN20250006336,2025-02-23 03:18:56,Utilities,4055.26,KES,USSD,Small Business Owner,Machakos,Successful,Sunday,False,False,False,False,2,3,Sunday
@@ -2853,7 +2853,7 @@ TXN20250006948,2025-01-16 09:53:38,Groceries,5162.64,KES,Mobile Wallet,Other,Kis
 TXN20250013092,2025-04-13 05:14:12,Subscriptions,1190.15,KES,Web Checkout,Salaried Employee,Eldoret,Successful,Sunday,False,False,False,False,4,5,Sunday
 TXN20250007477,2025-09-30 10:49:34,Transport,141.74,KES,NFC / Contactless,Retired,Nairobi,Successful,Tuesday,False,False,False,False,9,10,Tuesday
 TXN20250005538,2025-08-18 21:30:28,Groceries,370.52,KES,NFC / Contactless,Self-Employed,Eldoret,Successful,Monday,False,False,False,False,8,21,Monday
-TXN20250004321 ,2025-06-21 00:16:44,Shopping,1000.35,KES,Mobile Wallet,Salaried Employee,Mombasa,Successful,Saturday,False,False,False,False,6,0,Saturday
+TXN20250004321,2025-06-21 00:16:44,Shopping,1000.35,KES,Mobile Wallet,Salaried Employee,Mombasa,Successful,Saturday,False,False,False,False,6,0,Saturday
 TXN20250011114,2025-09-21 12:40:14,Entertainment,166.37,KES,In-App Payment,Gig Worker,Nairobi,Unknown,Sunday,False,False,False,False,9,12,Sunday
 TXN20250015847,2025-07-25 14:00:06,Fuel,700.4,KES,Mobile Wallet,Retired,Nakuru,Successful,Friday,False,False,False,False,7,14,Friday
 TXN20250014088,2025-05-31 23:33:23,Food & Dining,493.47,KES,NFC / Contactless,Gig Worker,Mombasa,Successful,Saturday,False,False,False,False,5,23,Saturday
@@ -3668,7 +3668,7 @@ TXN20250003434,2025-11-19 14:01:06,Education,1005.29,KES,Mobile Wallet,Salaried 
 TXN20250001080,2025-10-28 11:57:45,Food & Dining,165.95,KES,Mobile Wallet,Other,Kiambu,Failed,Tuesday,False,False,False,False,10,11,Tuesday
 TXN20250006537,2025-05-02 03:31:15,Groceries,1696.37,KES,Mobile Wallet,Self-Employed,Eldoret,Successful,Friday,False,False,False,False,5,3,Friday
 TXN20250007661,2025-05-22 09:04:18,Groceries,250.97,KES,In-App Payment,Salaried Employee,Nairobi,Successful,Thursday,False,False,False,False,5,9,Thursday
-TXN20250005072 ,2025-12-17 02:38:32,Groceries,615.19,KES,In-App Payment,Salaried Employee,Mombasa,Successful,Wednesday,False,False,False,False,12,2,Wednesday
+TXN20250005072,2025-12-17 02:38:32,Groceries,615.19,KES,In-App Payment,Salaried Employee,Mombasa,Successful,Wednesday,False,False,False,False,12,2,Wednesday
 TXN20250000921,2025-01-05 03:45:28,Food & Dining,1750.57,KES,USSD,Salaried Employee,Mombasa,Successful,Sunday,False,False,False,False,1,3,Sunday
 TXN20250015677,2025-09-28 08:26:13,Food & Dining,815.65,KES,Web Checkout,Self-Employed,Mombasa,Successful,Sunday,False,False,False,False,9,8,Sunday
 TXN20250015510,2025-02-08 00:41:21,Groceries,268.28,KES,QR Payment,Unknown,Other,Successful,Saturday,False,False,False,False,2,0,Saturday
@@ -5021,7 +5021,7 @@ TXN20250002691,2025-02-28 07:33:45,Food & Dining,1061.39,KES,Mobile Wallet,Gig W
 TXN20250003819,2025-08-06 20:01:13,Food & Dining,433.97,KES,Mobile Wallet,Student,Nakuru,Successful,Wednesday,False,False,False,False,8,20,Wednesday
 TXN20250014832,2025-11-27 23:15:00,Transport,135.32,KES,QR Payment,Student,Nairobi,Successful,Thursday,False,False,False,False,11,23,Thursday
 TXN20250007081,2025-05-02 09:30:06,Food & Dining,124.08,KES,Mobile Wallet,Self-Employed,Kakamega,Successful,Friday,False,False,False,False,5,9,Friday
-TXN20250006091 ,2025-11-23 05:08:46,Shopping,1545.56,KES,QR Payment,Self-Employed,Kiambu,Successful,Sunday,False,False,False,False,11,5,Sunday
+TXN20250006091,2025-11-23 05:08:46,Shopping,1545.56,KES,QR Payment,Self-Employed,Kiambu,Successful,Sunday,False,False,False,False,11,5,Sunday
 TXN20250015711,2025-02-10 02:39:13,Transport,405.26,KES,NFC / Contactless,Other,Machakos,Successful,Monday,False,False,False,False,2,2,Monday
 TXN20250017111,2025-10-12 15:18:44,Utilities,4303.21,KES,QR Payment,Self-Employed,Eldoret,Successful,Sunday,False,False,False,False,10,15,Sunday
 TXN20250002073,2025-06-21 22:11:58,Travel,12635.27,KES,QR Payment,Self-Employed,Kisumu,Successful,Saturday,False,False,False,False,6,22,Saturday
@@ -5565,7 +5565,7 @@ TXN20250006241,2025-01-18 11:29:13,Utilities,2731.51,KES,Web Checkout,Salaried E
 TXN20250011994,2025-11-15 13:34:37,Transport,330.43,KES,QR Payment,Salaried Employee,Mombasa,Successful,Saturday,False,False,False,False,11,13,Saturday
 TXN20250013543,2025-09-22 09:58:19,Food & Dining,593.87,KES,Web Checkout,Salaried Employee,Nairobi,Successful,Monday,False,False,False,False,9,9,Monday
 TXN20250009947,2025-10-03 13:36:00,Groceries,678.72,KES,Web Checkout,Gig Worker,Eldoret,Successful,Friday,False,False,False,False,10,13,Friday
-TXN20250006034 ,2025-09-24 01:16:24,Government Services,1270.18,KES,QR Payment,Salaried Employee,Kisumu,Successful,Wednesday,False,False,False,False,9,1,Wednesday
+TXN20250006034,2025-09-24 01:16:24,Government Services,1270.18,KES,QR Payment,Salaried Employee,Kisumu,Successful,Wednesday,False,False,False,False,9,1,Wednesday
 TXN20250015791,2025-11-19 06:58:16,Groceries,1275.65,KES,Mobile Wallet,Student,Eldoret,Successful,Wednesday,False,False,False,False,11,6,Wednesday
 TXN20250005029,2025-10-28 16:23:39,Utilities,1068.98,KES,In-App Payment,Self-Employed,Kisumu,Successful,Tuesday,False,False,False,False,10,16,Tuesday
 TXN20250010942,2025-03-02 08:43:54,Shopping,907.52,KES,USSD,Salaried Employee,Mombasa,Successful,Sunday,False,False,False,False,3,8,Sunday
@@ -6656,7 +6656,7 @@ TXN20250015439,2025-01-15 23:12:54,Utilities,945.89,KES,Mobile Wallet,Student,Ki
 TXN20250004049,2025-06-16 14:21:02,Food & Dining,209.33,KES,Mobile Wallet,Salaried Employee,Kisumu,Successful,Monday,False,False,False,False,6,14,Monday
 TXN20250012563,2025-09-14 22:55:58,Healthcare,1023.39,KES,Mobile Wallet,Gig Worker,Nairobi,Successful,Sunday,False,False,False,False,9,22,Sunday
 TXN20250013452,2025-03-12 13:39:22,Fuel,929.97,KES,Mobile Wallet,Small Business Owner,Nairobi,Successful,Wednesday,False,False,False,False,3,13,Wednesday
-TXN20250000121 ,2025-07-02 15:35:32,Groceries,1264.41,KES,In-App Payment,Gig Worker,Mombasa,Successful,Wednesday,False,False,False,False,7,15,Wednesday
+TXN20250000121,2025-07-02 15:35:32,Groceries,1264.41,KES,In-App Payment,Gig Worker,Mombasa,Successful,Wednesday,False,False,False,False,7,15,Wednesday
 TXN20250003062,2025-12-16 05:09:02,Subscriptions,687.13,KES,Web Checkout,Student,Kisumu,Successful,Tuesday,False,False,False,False,12,5,Tuesday
 TXN20250000737,2025-06-11 11:10:24,Entertainment,403.51,KES,Mobile Wallet,Self-Employed,Nairobi,Successful,Wednesday,False,False,False,False,6,11,Wednesday
 TXN20250014101,2025-03-08 13:44:10,Entertainment,642.17,KES,Web Checkout,Salaried Employee,Nakuru,Successful,Saturday,False,False,False,False,3,13,Saturday
@@ -6969,7 +6969,7 @@ TXN20250009658,2025-07-01 22:21:25,Fuel,2116.83,KES,USSD,Gig Worker,Nyeri,Succes
 TXN20250016143,2025-05-16 14:54:43,Groceries,2511.53,KES,Mobile Wallet,Salaried Employee,Nyeri,Successful,Friday,False,False,False,False,5,14,Friday
 TXN20250011403,2025-11-30 03:05:26,Groceries,1578.43,KES,USSD,Small Business Owner,Nairobi,Successful,Sunday,False,False,False,False,11,3,Sunday
 TXN20250012041,2025-08-19 06:25:49,Healthcare,3980.91,KES,Mobile Wallet,Small Business Owner,Machakos,Successful,Tuesday,False,False,False,False,8,6,Tuesday
-TXN20250016564 ,2025-03-25 13:05:53,Education,4840.87,KES,QR Payment,Gig Worker,Kisumu,Successful,Tuesday,False,False,False,False,3,13,Tuesday
+TXN20250016564,2025-03-25 13:05:53,Education,4840.87,KES,QR Payment,Gig Worker,Kisumu,Successful,Tuesday,False,False,False,False,3,13,Tuesday
 TXN20250008055,2025-09-17 22:27:27,Travel,11189.53,KES,QR Payment,Student,Kisumu,Successful,Wednesday,False,False,False,False,9,22,Wednesday
 TXN20250011098,2025-10-05 14:19:53,Subscriptions,498.34,KES,QR Payment,Salaried Employee,Nairobi,Successful,Sunday,False,False,False,False,10,14,Sunday
 TXN20250007048,2025-04-10 04:30:20,Education,3896.78,KES,USSD,Student,Eldoret,Successful,Thursday,False,False,False,False,4,4,Thursday
@@ -7212,7 +7212,7 @@ TXN20250011870,2025-03-07 19:58:22,Transport,188.53,KES,USSD,Self-Employed,Kisum
 TXN20250014165,2025-03-01 06:33:04,Groceries,185.23,KES,In-App Payment,Retired,Kiambu,Successful,Saturday,False,False,False,False,3,6,Saturday
 TXN20250013327,2025-02-22 14:20:40,Healthcare,1351.37,KES,Web Checkout,Self-Employed,Mombasa,Successful,Saturday,False,False,False,False,2,14,Saturday
 TXN20250012496,2025-08-27 05:07:24,Groceries,394.68,KES,NFC / Contactless,Student,Kiambu,Successful,Wednesday,False,False,False,False,8,5,Wednesday
-TXN20250000900 ,2025-07-22 03:57:35,Food & Dining,77.82,KES,Mobile Wallet,Student,Nairobi,Successful,Tuesday,False,False,False,False,7,3,Tuesday
+TXN20250000900,2025-07-22 03:57:35,Food & Dining,77.82,KES,Mobile Wallet,Student,Nairobi,Successful,Tuesday,False,False,False,False,7,3,Tuesday
 TXN20250008526,2025-10-27 19:13:03,Groceries,737.41,KES,Mobile Wallet,Salaried Employee,Nairobi,Successful,Monday,False,False,False,False,10,19,Monday
 TXN20250015508,2025-12-16 02:18:01,Education,2491.2,KES,QR Payment,Other,Nairobi,Successful,Tuesday,False,False,False,False,12,2,Tuesday
 TXN20250003386,2025-04-01 15:46:15,Groceries,507.1,KES,Web Checkout,Salaried Employee,Kiambu,Successful,Tuesday,False,False,False,False,4,15,Tuesday
@@ -7448,7 +7448,7 @@ TXN20250000442,2025-03-02 17:39:48,Food & Dining,5708.71,KES,QR Payment,Self-Emp
 TXN20250017817,2025-10-22 00:11:53,Fuel,572.79,KES,Web Checkout,Self-Employed,Kisumu,Successful,Wednesday,False,False,False,False,10,0,Wednesday
 TXN20250011925,2025-09-14 04:44:30,Cash Transfer,1128.62,KES,In-App Payment,Small Business Owner,Nairobi,Successful,Sunday,False,False,False,False,9,4,Sunday
 TXN20250008508,2025-03-24 05:54:05,Food & Dining,2838.51,KES,Mobile Wallet,Student,Nairobi,Successful,Monday,False,False,False,False,3,5,Monday
-TXN20250016440 ,2025-09-16 12:07:07,Groceries,370.74,KES,Mobile Wallet,Retired,Nairobi,Failed,Tuesday,False,False,False,False,9,12,Tuesday
+TXN20250016440,2025-09-16 12:07:07,Groceries,370.74,KES,Mobile Wallet,Retired,Nairobi,Failed,Tuesday,False,False,False,False,9,12,Tuesday
 TXN20250017121,2025-06-19 19:57:53,Groceries,615.9,KES,In-App Payment,Self-Employed,Eldoret,Successful,Thursday,False,False,False,False,6,19,Thursday
 TXN20250009369,2025-11-12 16:53:59,Groceries,1338.08,KES,Mobile Wallet,Salaried Employee,Kakamega,Successful,Wednesday,False,False,False,False,11,16,Wednesday
 TXN20250013284,2025-02-19 23:21:00,Cash Transfer,3430.83,KES,Mobile Wallet,Other,Nairobi,Successful,Wednesday,False,False,False,False,2,23,Wednesday
@@ -7555,7 +7555,7 @@ TXN20250000344,2025-12-16 10:11:29,Transport,615.34,KES,QR Payment,Self-Employed
 TXN20250017464,2025-01-02 15:09:21,Utilities,1788.89,KES,Web Checkout,Salaried Employee,Nairobi,Successful,Thursday,False,False,False,False,1,15,Thursday
 TXN20250013273,2025-02-02 07:41:42,Utilities,3891.42,KES,Mobile Wallet,Other,Nakuru,Successful,Sunday,False,False,False,False,2,7,Sunday
 TXN20250015213,2025-10-09 21:04:39,Government Services,703.66,KES,Unknown,Student,Nairobi,Successful,Thursday,False,False,False,False,10,21,Thursday
-TXN20250016468 ,2025-10-04 01:17:57,Transport,244.3,KES,USSD,Retired,Kiambu,Successful,Saturday,False,False,False,False,10,1,Saturday
+TXN20250016468,2025-10-04 01:17:57,Transport,244.3,KES,USSD,Retired,Kiambu,Successful,Saturday,False,False,False,False,10,1,Saturday
 TXN20250009093,2025-07-03 13:09:37,Utilities,1393.73,KES,Web Checkout,Salaried Employee,Other,Successful,Thursday,False,False,False,False,7,13,Thursday
 TXN20250017841,2025-05-01 11:20:00,Groceries,492.66,KES,Mobile Wallet,Self-Employed,Nairobi,Successful,Thursday,False,False,False,False,5,11,Thursday
 TXN20250009451,2025-11-17 20:37:02,Groceries,449.16,KES,Mobile Wallet,Unknown,Nakuru,Successful,Monday,False,False,False,False,11,20,Monday
@@ -7674,7 +7674,7 @@ TXN20250016855,2025-12-23 05:33:33,Transport,93.97,KES,Mobile Wallet,Student,Eld
 TXN20250016863,2025-10-17 22:55:35,Fuel,1408.99,KES,Mobile Wallet,Student,Eldoret,Successful,Friday,False,False,False,False,10,22,Friday
 TXN20250015802,2025-04-12 20:09:51,Food & Dining,-250.0,KES,NFC / Contactless,Self-Employed,Nairobi,Successful,Saturday,False,False,True,False,4,20,Saturday
 TXN20250010823,2025-07-30 01:35:06,Groceries,1442.07,KES,Mobile Wallet,Salaried Employee,Nairobi,Successful,Wednesday,False,False,False,False,7,1,Wednesday
-TXN20250003760 ,2025-06-26 11:06:55,Entertainment,483.91,KES,USSD,Salaried Employee,Nyeri,Successful,Thursday,False,False,False,False,6,11,Thursday
+TXN20250003760,2025-06-26 11:06:55,Entertainment,483.91,KES,USSD,Salaried Employee,Nyeri,Successful,Thursday,False,False,False,False,6,11,Thursday
 TXN20250013136,,Government Services,1362.73,KES,USSD,Small Business Owner,Kiambu,Successful,Thursday,False,False,False,False,,,
 TXN20250001546,2025-10-14 11:42:51,Food & Dining,575.43,KES,Mobile Wallet,Other,Other,Successful,Tuesday,False,False,False,False,10,11,Tuesday
 TXN20250001895,2025-05-28 03:31:05,Shopping,2994.08,KES,QR Payment,Gig Worker,Mombasa,Successful,Wednesday,False,False,False,False,5,3,Wednesday
@@ -7816,7 +7816,7 @@ TXN20250017630,2025-02-21 12:44:04,Utilities,1251.14,KES,USSD,Small Business Own
 TXN20250010723,2025-04-28 12:29:50,Fuel,1541.61,KES,USSD,Student,Machakos,Successful,Monday,False,False,False,False,4,12,Monday
 TXN20250017254,2025-04-24 07:49:59,Shopping,660.28,KES,USSD,Salaried Employee,Nairobi,Successful,Thursday,False,False,False,False,4,7,Thursday
 TXN20250011374,2025-08-16 13:59:41,Travel,6498.35,KES,USSD,Student,Other,Successful,Saturday,False,False,False,False,8,13,Saturday
-TXN20250000647 ,2025-03-07 09:28:48,Food & Dining,363.89,KES,Mobile Wallet,Student,Kiambu,Successful,Friday,False,False,False,False,3,9,Friday
+TXN20250000647,2025-03-07 09:28:48,Food & Dining,363.89,KES,Mobile Wallet,Student,Kiambu,Successful,Friday,False,False,False,False,3,9,Friday
 TXN20250002261,2025-02-22 04:14:58,Fuel,6360.53,KES,Mobile Wallet,Salaried Employee,Nakuru,Successful,Saturday,False,False,False,False,2,4,Saturday
 TXN20250014650,2025-06-24 14:32:18,Utilities,2781.36,KES,USSD,Small Business Owner,Nairobi,Successful,Tuesday,False,False,False,False,6,14,Tuesday
 TXN20250009895,2025-04-03 17:04:33,Utilities,1677.35,KES,In-App Payment,Salaried Employee,Kisumu,Successful,Thursday,False,False,False,False,4,17,Thursday
@@ -8310,7 +8310,7 @@ TXN20250012264,2025-05-25 04:06:26,Education,1726.53,KES,NFC / Contactless,Salar
 TXN20250015519,2025-01-14 21:53:08,Entertainment,2349.59,KES,Mobile Wallet,Salaried Employee,Mombasa,Reversed,Tuesday,False,False,False,False,1,21,Tuesday
 TXN20250013968,2025-08-01 17:55:36,Healthcare,6146.99,KES,Mobile Wallet,Student,Mombasa,Successful,Friday,False,False,False,False,8,17,Friday
 TXN20250017626,2025-02-19 21:30:24,Food & Dining,1107.34,KES,USSD,Other,Mombasa,Successful,Wednesday,False,False,False,False,2,21,Wednesday
-TXN20250003567 ,2025-05-06 00:06:26,Shopping,4232.6,KES,USSD,Student,Machakos,Failed,Tuesday,False,False,False,False,5,0,Tuesday
+TXN20250003567,2025-05-06 00:06:26,Shopping,4232.6,KES,USSD,Student,Machakos,Failed,Tuesday,False,False,False,False,5,0,Tuesday
 TXN20250001454,2025-08-12 13:24:12,Food & Dining,1222.91,KES,USSD,Gig Worker,Other,Successful,Tuesday,False,False,False,False,8,13,Tuesday
 TXN20250009743,2025-02-27 08:16:54,Entertainment,8030.04,KES,In-App Payment,Salaried Employee,Nairobi,Failed,Thursday,False,False,False,False,2,8,Thursday
 TXN20250017990,2025-11-23 09:10:03,Subscriptions,502.08,KES,USSD,Salaried Employee,Nairobi,Successful,Sunday,False,False,False,False,11,9,Sunday
@@ -8661,7 +8661,7 @@ TXN20250002675,2025-02-06 19:44:02,Groceries,492.29,KES,Mobile Wallet,Retired,Mo
 TXN20250005050,2025-10-10 10:07:19,Food & Dining,,KES,Mobile Wallet,Salaried Employee,Machakos,Pending,Friday,False,False,False,False,10,10,Friday
 TXN20250012628,2025-07-17 15:32:01,Transport,161.93,KES,Mobile Wallet,Gig Worker,Other,Successful,Thursday,False,False,False,False,7,15,Thursday
 TXN20250009237,2025-04-02 12:13:41,Shopping,1782.92,KES,Unknown,Self-Employed,Kisumu,Successful,Wednesday,False,False,False,False,4,12,Wednesday
-TXN20250006708 ,2025-10-15 15:52:09,Shopping,1693.35,KES,In-App Payment,Student,Unknown,Successful,Wednesday,False,False,False,False,10,15,Wednesday
+TXN20250006708,2025-10-15 15:52:09,Shopping,1693.35,KES,In-App Payment,Student,Unknown,Successful,Wednesday,False,False,False,False,10,15,Wednesday
 TXN20250016910,2025-04-25 23:25:32,Groceries,870.77,KES,Mobile Wallet,Self-Employed,Nyeri,Successful,Friday,False,False,False,False,4,23,Friday
 TXN20250009040,2025-05-17 09:12:23,Healthcare,192.88,KES,Mobile Wallet,Small Business Owner,Eldoret,Successful,Saturday,False,False,False,False,5,9,Saturday
 TXN20250005097,2025-11-08 03:14:43,Cash Transfer,8934.25,KES,Mobile Wallet,Other,Other,Successful,Saturday,False,False,False,False,11,3,Saturday
@@ -8875,7 +8875,7 @@ TXN20250001850,2025-07-22 00:00:33,Entertainment,111.95,KES,Mobile Wallet,Gig Wo
 TXN20250000967,2025-04-23 08:40:57,Transport,232.17,KES,Mobile Wallet,Student,Nairobi,Pending,Wednesday,False,False,False,False,4,8,Wednesday
 TXN20250005215,2025-10-26 17:23:29,Groceries,1681.98,KES,In-App Payment,Salaried Employee,Nairobi,Successful,Sunday,False,False,False,False,10,17,Sunday
 TXN20250004458,2025-12-21 08:56:12,Fuel,2106.04,KES,USSD,Gig Worker,Mombasa,Successful,Sunday,False,False,False,False,12,8,Sunday
-TXN20250014030 ,2025-11-30 08:19:04,Travel,2572.04,KES,QR Payment,Gig Worker,Eldoret,Successful,Sunday,False,False,False,False,11,8,Sunday
+TXN20250014030,2025-11-30 08:19:04,Travel,2572.04,KES,QR Payment,Gig Worker,Eldoret,Successful,Sunday,False,False,False,False,11,8,Sunday
 TXN20250013406,2025-03-01 19:08:56,Subscriptions,1308.62,KES,In-App Payment,Student,Kiambu,Successful,Saturday,False,False,False,False,3,19,Saturday
 TXN20250009231,2025-09-07 05:43:48,Food & Dining,2034.57,KES,Web Checkout,Self-Employed,Nairobi,Successful,Sunday,False,False,False,False,9,5,Sunday
 TXN20250011179,2025-12-11 11:23:56,Entertainment,801.35,KES,QR Payment,Small Business Owner,Kisumu,Successful,Thursday,False,False,False,False,12,11,Thursday
@@ -8883,7 +8883,7 @@ TXN20250004779,2025-02-21 04:14:23,Cash Transfer,2915.78,KES,QR Payment,Salaried
 TXN20250012021,2025-08-22 12:04:27,Healthcare,11421.6,KES,Mobile Wallet,Gig Worker,Nakuru,Successful,Friday,False,False,False,False,8,12,Friday
 TXN20250005344,2025-06-14 09:58:00,Shopping,482.12,KES,Mobile Wallet,Unknown,Nakuru,Successful,Saturday,False,False,False,False,6,9,Saturday
 TXN20250016073,2025-03-24 22:01:06,Transport,739.56,KES,QR Payment,Salaried Employee,Nairobi,Successful,Monday,False,False,False,False,3,22,Monday
-TXN20250013113 ,2025-11-06 23:29:01,Groceries,3783.54,KES,QR Payment,Self-Employed,Nakuru,Successful,Thursday,False,False,False,False,11,23,Thursday
+TXN20250013113,2025-11-06 23:29:01,Groceries,3783.54,KES,QR Payment,Self-Employed,Nakuru,Successful,Thursday,False,False,False,False,11,23,Thursday
 TXN20250003512,2025-01-05 19:21:30,Healthcare,1791.62,KES,Web Checkout,Student,Nakuru,Successful,Sunday,False,False,False,False,1,19,Sunday
 TXN20250010893,2025-09-07 04:27:25,Transport,535.02,KES,Mobile Wallet,Salaried Employee,Nairobi,Successful,Sunday,False,False,False,False,9,4,Sunday
 TXN20250000349,2025-06-16 05:58:52,Transport,192.73,KES,USSD,Student,Nairobi,Successful,Monday,False,False,False,False,6,5,Monday
@@ -9218,7 +9218,7 @@ TXN20250003073,2025-11-11 02:16:30,Healthcare,717.16,KES,Mobile Wallet,Salaried 
 TXN20250007955,2025-03-25 16:24:03,Shopping,1108.99,KES,Web Checkout,Gig Worker,Nairobi,Successful,Tuesday,False,False,False,False,3,16,Tuesday
 TXN20250016266,2025-01-01 00:31:22,Utilities,6143.62,KES,In-App Payment,Small Business Owner,Nairobi,Successful,Wednesday,False,False,False,False,1,0,Wednesday
 TXN20250006124,2025-10-21 05:16:52,Food & Dining,192.87,KES,NFC / Contactless,Retired,Mombasa,Pending,Tuesday,False,False,False,False,10,5,Tuesday
-TXN20250008487 ,2025-11-06 18:56:09,Groceries,1043.8,KES,Mobile Wallet,Retired,Kisumu,Successful,Thursday,False,False,False,False,11,18,Thursday
+TXN20250008487,2025-11-06 18:56:09,Groceries,1043.8,KES,Mobile Wallet,Retired,Kisumu,Successful,Thursday,False,False,False,False,11,18,Thursday
 TXN20250011560,2025-04-24 23:04:39,Shopping,4636.47,KES,Web Checkout,Student,Kiambu,Successful,Thursday,False,False,False,False,4,23,Thursday
 TXN20250006065,2025-05-25 21:22:07,Shopping,4772.82,KES,USSD,Salaried Employee,Nairobi,Successful,Sunday,False,False,False,False,5,21,Sunday
 TXN20250012008,2025-10-26 12:41:06,Entertainment,239.02,KES,NFC / Contactless,Gig Worker,Nairobi,Successful,Sunday,False,False,False,False,10,12,Sunday
@@ -9493,7 +9493,7 @@ TXN20250001164,2025-01-30 18:19:30,Government Services,3558.72,KES,USSD,Self-Emp
 TXN20250015247,2025-02-05 21:31:52,Food & Dining,475.96,KES,QR Payment,Small Business Owner,Nakuru,Successful,Wednesday,False,False,False,False,2,21,Wednesday
 TXN20250014900,2025-05-03 23:32:33,Food & Dining,1105.54,KES,NFC / Contactless,Gig Worker,Nakuru,Successful,Saturday,False,False,False,False,5,23,Saturday
 TXN20250007188,2025-04-20 21:19:56,Food & Dining,494.12,KES,Mobile Wallet,Salaried Employee,Eldoret,Successful,Sunday,False,False,False,False,4,21,Sunday
-TXN20250005099 ,2025-07-24 19:22:38,Transport,1047.19,KES,Mobile Wallet,Salaried Employee,Kakamega,Successful,Thursday,False,False,False,False,7,19,Thursday
+TXN20250005099,2025-07-24 19:22:38,Transport,1047.19,KES,Mobile Wallet,Salaried Employee,Kakamega,Successful,Thursday,False,False,False,False,7,19,Thursday
 TXN20250017672,2025-01-11 14:50:53,Groceries,880.29,KES,Mobile Wallet,Other,Machakos,Successful,Saturday,False,False,False,False,1,14,Saturday
 TXN20250005774,2025-07-14 02:30:50,Shopping,1572.09,KES,Mobile Wallet,Self-Employed,Nakuru,Successful,Monday,False,False,False,False,7,2,Monday
 TXN20250017182,2025-06-27 11:40:39,Unknown,233.46,KES,Mobile Wallet,Self-Employed,Mombasa,Successful,Friday,False,False,False,False,6,11,Friday
@@ -9531,7 +9531,7 @@ TXN20250000902,2025-08-12 07:01:45,Food & Dining,61.09,KES,Mobile Wallet,Salarie
 TXN20250011940,2025-10-31 17:50:56,Shopping,5796.63,KES,In-App Payment,Salaried Employee,Kisumu,Successful,Friday,False,False,False,False,10,17,Friday
 TXN20250007988,2025-01-14 05:53:31,Travel,19872.54,KES,USSD,Salaried Employee,Nakuru,Successful,Tuesday,False,False,False,False,1,5,Tuesday
 TXN20250006404,2025-03-18 20:05:46,Healthcare,3331.19,KES,Mobile Wallet,Other,Nakuru,Successful,Tuesday,False,False,False,False,3,20,Tuesday
-TXN20250001154 ,2025-08-01 22:53:34,Groceries,685.41,KES,Mobile Wallet,Gig Worker,Nakuru,Successful,Friday,False,False,False,False,8,22,Friday
+TXN20250001154,2025-08-01 22:53:34,Groceries,685.41,KES,Mobile Wallet,Gig Worker,Nakuru,Successful,Friday,False,False,False,False,8,22,Friday
 TXN20250017940,2025-02-26 22:40:26,Transport,126.47,KES,Mobile Wallet,Gig Worker,Kakamega,Successful,Wednesday,False,False,False,False,2,22,Wednesday
 TXN20250011638,2025-02-24 23:46:37,Entertainment,951.43,KES,QR Payment,Salaried Employee,Nairobi,Successful,Monday,False,False,False,False,2,23,Monday
 TXN20250000882,2025-09-11 08:31:08,Food & Dining,741.45,KES,Mobile Wallet,Salaried Employee,Kiambu,Successful,Thursday,False,False,False,False,9,8,Thursday
@@ -9925,7 +9925,7 @@ TXN20250014807,2025-01-30 14:02:16,Education,3387.73,KES,QR Payment,Student,Nair
 TXN20250014580,2025-04-14 05:13:30,Transport,121.27,KES,Mobile Wallet,Self-Employed,Eldoret,Successful,Monday,False,False,False,False,4,5,Monday
 TXN20250000728,2025-03-07 00:17:17,Food & Dining,1147.37,KES,Mobile Wallet,Student,Nyeri,Successful,Friday,False,False,False,False,3,0,Friday
 TXN20250007966,2025-09-12 20:10:07,Transport,239.56,KES,In-App Payment,Salaried Employee,Nairobi,Successful,Friday,False,False,False,False,9,20,Friday
-TXN20250011655 ,2025-04-15 12:41:38,Transport,404.09,KES,Mobile Wallet,Salaried Employee,Eldoret,Failed,Tuesday,False,False,False,False,4,12,Tuesday
+TXN20250011655,2025-04-15 12:41:38,Transport,404.09,KES,Mobile Wallet,Salaried Employee,Eldoret,Failed,Tuesday,False,False,False,False,4,12,Tuesday
 TXN20250000248,2025-07-02 19:00:48,Transport,403.12,KES,QR Payment,Student,Nairobi,Successful,Wednesday,False,False,False,False,7,19,Wednesday
 TXN20250013812,2025-11-18 19:38:47,Shopping,13842.96,KES,Web Checkout,Salaried Employee,Mombasa,Successful,Tuesday,False,False,False,False,11,19,Tuesday
 TXN20250017605,2025-05-26 09:22:21,Transport,553.09,KES,Mobile Wallet,Salaried Employee,Mombasa,Successful,Monday,False,False,False,False,5,9,Monday
@@ -10469,7 +10469,7 @@ TXN20250015775,2025-06-29 04:03:04,Transport,135.3,KES,NFC / Contactless,Gig Wor
 TXN20250011953,2025-06-18 09:35:26,Shopping,33553.33,KES,USSD,Student,Mombasa,Successful,Wednesday,False,False,False,False,6,9,Wednesday
 TXN20250016265,2025-10-26 13:30:31,Cash Transfer,10647.49,KES,In-App Payment,Small Business Owner,Mombasa,Successful,Sunday,False,False,False,False,10,13,Sunday
 TXN20250005171,2025-11-08 02:02:56,Shopping,3260.18,KES,Unknown,Self-Employed,Mombasa,Successful,Saturday,False,False,False,False,11,2,Saturday
-TXN20250002265 ,2025-05-18 22:31:39,Education,4119.24,KES,QR Payment,Salaried Employee,Mombasa,Successful,Sunday,False,False,False,False,5,22,Sunday
+TXN20250002265,2025-05-18 22:31:39,Education,4119.24,KES,QR Payment,Salaried Employee,Mombasa,Successful,Sunday,False,False,False,False,5,22,Sunday
 TXN20250006820,2025-10-23 21:21:24,Cash Transfer,935.39,KES,USSD,Self-Employed,Nairobi,Pending,Thursday,False,False,False,False,10,21,Thursday
 TXN20250008981,2025-02-27 14:54:23,Shopping,2741.81,KES,Mobile Wallet,Salaried Employee,Nairobi,Successful,Thursday,False,False,False,False,2,14,Thursday
 TXN20250006532,2025-09-02 23:28:45,Transport,414.69,KES,USSD,Gig Worker,Nairobi,Successful,Tuesday,False,False,False,False,9,23,Tuesday
@@ -11557,7 +11557,7 @@ TXN20250002499,2025-03-22 13:38:52,Fuel,1421.08,KES,NFC / Contactless,Gig Worker
 TXN20250008122,2025-12-14 11:27:09,Shopping,356.75,KES,Mobile Wallet,Other,Nairobi,Successful,Sunday,False,False,False,False,12,11,Sunday
 TXN20250011460,2025-02-15 22:48:34,Food & Dining,626.52,KES,QR Payment,Self-Employed,Machakos,Successful,Saturday,False,False,False,False,2,22,Saturday
 TXN20250017326,2025-06-11 01:33:12,Transport,545.77,KES,USSD,Small Business Owner,Mombasa,Successful,Wednesday,False,False,False,False,6,1,Wednesday
-TXN20250016858 ,2025-12-17 06:03:48,Entertainment,1153.72,KES,QR Payment,Student,Other,Successful,Wednesday,False,False,False,False,12,6,Wednesday
+TXN20250016858,2025-12-17 06:03:48,Entertainment,1153.72,KES,QR Payment,Student,Other,Successful,Wednesday,False,False,False,False,12,6,Wednesday
 TXN20250004066,2025-11-16 21:57:38,Groceries,3290.26,KES,In-App Payment,Self-Employed,Mombasa,Successful,Sunday,False,False,False,False,11,21,Sunday
 TXN20250009819,2025-07-14 14:54:33,Education,2504.0,KES,Mobile Wallet,Self-Employed,Kiambu,Successful,Monday,False,False,False,False,7,14,Monday
 TXN20250014970,2025-06-13 14:32:30,Healthcare,9084.51,KES,NFC / Contactless,Student,Machakos,Successful,Friday,False,False,False,False,6,14,Friday
@@ -11949,7 +11949,7 @@ TXN20250008187,2025-08-07 18:11:15,Shopping,1823.26,KES,Web Checkout,Student,Nak
 TXN20250016565,2025-07-30 21:36:32,Food & Dining,415.27,KES,Mobile Wallet,Retired,Machakos,Successful,Wednesday,False,False,False,False,7,21,Wednesday
 TXN20250002035,2025-10-08 17:13:58,Groceries,240.84,KES,NFC / Contactless,Small Business Owner,Nairobi,Successful,Wednesday,False,False,False,False,10,17,Wednesday
 TXN20250006451,2025-07-10 16:00:10,Groceries,7348.23,KES,Mobile Wallet,Salaried Employee,Nairobi,Successful,Thursday,False,False,False,False,7,16,Thursday
-TXN20250004584 ,2025-02-03 04:31:15,Transport,277.79,KES,QR Payment,Small Business Owner,Nairobi,Failed,Monday,False,False,False,False,2,4,Monday
+TXN20250004584,2025-02-03 04:31:15,Transport,277.79,KES,QR Payment,Small Business Owner,Nairobi,Failed,Monday,False,False,False,False,2,4,Monday
 TXN20250001363,2025-11-10 23:41:18,Groceries,1468.6,KES,Web Checkout,Small Business Owner,Nairobi,Successful,Monday,False,False,False,False,11,23,Monday
 TXN20250015248,2025-09-06 13:42:30,Groceries,650.89,KES,Web Checkout,Small Business Owner,Eldoret,Successful,Saturday,False,False,False,False,9,13,Saturday
 TXN20250005021,2025-10-30 07:09:52,Healthcare,663.09,KES,NFC / Contactless,Small Business Owner,Kisumu,Successful,Thursday,False,False,False,False,10,7,Thursday
@@ -11979,7 +11979,7 @@ TXN20250008343,2025-04-19 16:37:02,Transport,83.65,KES,QR Payment,Self-Employed,
 TXN20250007599,2025-10-24 03:24:07,Utilities,529.08,KES,Mobile Wallet,Self-Employed,Mombasa,Pending,Friday,False,False,False,False,10,3,Friday
 TXN20250005883,2025-03-09 06:55:36,Food & Dining,202.67,KES,Mobile Wallet,Self-Employed,Machakos,Successful,Sunday,False,False,False,False,3,6,Sunday
 TXN20250014946,2025-06-28 18:19:55,Food & Dining,366.68,KES,Web Checkout,Salaried Employee,Other,Successful,Saturday,False,False,False,False,6,18,Saturday
-TXN20250015101 ,2025-07-31 23:21:14,Transport,129.04,KES,QR Payment,Salaried Employee,Nairobi,Failed,Thursday,False,False,False,False,7,23,Thursday
+TXN20250015101,2025-07-31 23:21:14,Transport,129.04,KES,QR Payment,Salaried Employee,Nairobi,Failed,Thursday,False,False,False,False,7,23,Thursday
 TXN20250014412,2025-07-16 05:35:29,Food & Dining,1279.49,KES,QR Payment,Small Business Owner,Nairobi,Successful,Wednesday,False,False,False,False,7,5,Wednesday
 TXN20250010256,2025-04-01 11:29:41,Utilities,8504.7,KES,Mobile Wallet,Gig Worker,Mombasa,Successful,Tuesday,False,False,False,False,4,11,Tuesday
 TXN20250002344,2025-10-13 03:03:19,Education,2096.53,KES,Mobile Wallet,Salaried Employee,Mombasa,Successful,Monday,False,False,False,False,10,3,Monday
@@ -12107,7 +12107,7 @@ TXN20250017216,2025-05-14 20:28:53,Utilities,410.32,KES,NFC / Contactless,Self-E
 TXN20250012625,2025-12-08 01:15:22,Transport,295.9,KES,QR Payment,Retired,Nairobi,Successful,Monday,False,False,False,False,12,1,Monday
 TXN20250011678,2025-12-09 13:00:17,Transport,172.58,KES,QR Payment,Salaried Employee,Kiambu,Successful,Tuesday,False,False,False,False,12,13,Tuesday
 TXN20250005698,2025-03-30 07:03:52,Transport,385.85,KES,NFC / Contactless,Student,Mombasa,Successful,Sunday,False,False,False,False,3,7,Sunday
-TXN20250012235 ,2025-01-04 11:51:36,Government Services,2183.16,KES,Mobile Wallet,Student,Nairobi,Successful,Saturday,False,False,False,False,1,11,Saturday
+TXN20250012235,2025-01-04 11:51:36,Government Services,2183.16,KES,Mobile Wallet,Student,Nairobi,Successful,Saturday,False,False,False,False,1,11,Saturday
 TXN20250006596,2025-10-07 22:51:21,Food & Dining,377.71,KES,USSD,Small Business Owner,Mombasa,Successful,Tuesday,False,False,False,False,10,22,Tuesday
 TXN20250012869,2025-11-29 04:00:11,Fuel,2430.74,KES,Mobile Wallet,Small Business Owner,Mombasa,Pending,Saturday,False,False,False,False,11,4,Saturday
 TXN20250007286,2025-03-03 06:38:34,Shopping,1058.06,KES,QR Payment,Student,Other,Successful,Monday,False,False,False,False,3,6,Monday
@@ -12259,7 +12259,7 @@ TXN20250007347,2025-02-24 15:57:14,Groceries,1527.74,KES,USSD,Salaried Employee,
 TXN20250016497,2025-12-20 20:46:47,Food & Dining,284.02,KES,USSD,Student,Nairobi,Successful,Saturday,False,False,False,False,12,20,Saturday
 TXN20250002351,2025-01-09 19:13:58,Transport,515.49,KES,USSD,Small Business Owner,Nairobi,Successful,Thursday,False,False,False,False,1,19,Thursday
 TXN20250004751,2025-10-12 09:03:02,Transport,588.07,USD,NFC / Contactless,Gig Worker,Mombasa,Successful,Sunday,False,True,False,False,10,9,Sunday
-TXN20250000687 ,2025-02-20 19:40:25,Entertainment,228.82,KES,In-App Payment,Student,Mombasa,Successful,Thursday,False,False,False,False,2,19,Thursday
+TXN20250000687,2025-02-20 19:40:25,Entertainment,228.82,KES,In-App Payment,Student,Mombasa,Successful,Thursday,False,False,False,False,2,19,Thursday
 TXN20250008858,2025-04-14 05:32:29,Transport,809.82,KES,Web Checkout,Student,Nakuru,Successful,Monday,False,False,False,False,4,5,Monday
 TXN20250010025,2025-02-20 09:16:18,Transport,413.37,KES,Mobile Wallet,Salaried Employee,Other,Successful,Thursday,False,False,False,False,2,9,Thursday
 TXN20250016298,2025-09-22 05:21:22,Cash Transfer,1810.81,KES,Mobile Wallet,Gig Worker,Other,Pending,Monday,False,False,False,False,9,5,Monday
@@ -12281,7 +12281,7 @@ TXN20250013998,2025-11-27 21:29:39,Healthcare,3907.43,KES,Mobile Wallet,Student,
 TXN20250007578,2025-05-25 11:17:41,Groceries,3320.54,KES,Mobile Wallet,Salaried Employee,Nairobi,Successful,Sunday,False,False,False,False,5,11,Sunday
 TXN20250008074,2025-11-10 05:33:55,Government Services,1618.27,KES,Mobile Wallet,Self-Employed,Machakos,Successful,Monday,False,False,False,False,11,5,Monday
 TXN20250007810,2025-12-21 12:08:01,Utilities,2591.88,KES,NFC / Contactless,Small Business Owner,Nyeri,Pending,Sunday,False,False,False,False,12,12,Sunday
-TXN20250004815 ,2025-05-09 02:09:27,Travel,5813.91,KES,Mobile Wallet,Self-Employed,Nairobi,Successful,Friday,False,False,False,False,5,2,Friday
+TXN20250004815,2025-05-09 02:09:27,Travel,5813.91,KES,Mobile Wallet,Self-Employed,Nairobi,Successful,Friday,False,False,False,False,5,2,Friday
 TXN20250001762,2025-08-20 17:09:17,Food & Dining,1637.95,KES,Mobile Wallet,Self-Employed,Nakuru,Successful,Wednesday,False,False,False,False,8,17,Wednesday
 TXN20250011497,2025-11-06 17:08:48,Utilities,5208.99,KES,QR Payment,Salaried Employee,Nairobi,Successful,Thursday,False,False,False,False,11,17,Thursday
 TXN20250003214,2025-04-01 09:16:00,Cash Transfer,2144.58,KES,Mobile Wallet,Self-Employed,Mombasa,Successful,Tuesday,False,False,False,False,4,9,Tuesday
@@ -12613,7 +12613,7 @@ TXN20250001349,2025-01-24 20:45:26,Transport,244.91,KES,NFC / Contactless,Salari
 TXN20250012323,2025-12-29 05:16:10,Transport,120.28,KES,Mobile Wallet,Small Business Owner,Mombasa,Successful,Monday,False,False,False,False,12,5,Monday
 TXN20250001176,2025-11-25 09:55:16,Groceries,490.0,KES,Mobile Wallet,Self-Employed,Other,Pending,Tuesday,False,False,False,False,11,9,Tuesday
 TXN20250013016,2025-10-07 11:29:58,Food & Dining,366.37,KES,Mobile Wallet,Small Business Owner,Other,Successful,Tuesday,False,False,False,False,10,11,Tuesday
-TXN20250002496 ,2025-12-01 01:49:49,Entertainment,211.23,KES,In-App Payment,Salaried Employee,Nairobi,Successful,Monday,False,False,False,False,12,1,Monday
+TXN20250002496,2025-12-01 01:49:49,Entertainment,211.23,KES,In-App Payment,Salaried Employee,Nairobi,Successful,Monday,False,False,False,False,12,1,Monday
 TXN20250008790,2025-06-21 06:54:08,Groceries,624.24,KES,In-App Payment,Self-Employed,Mombasa,Successful,Saturday,False,False,False,False,6,6,Saturday
 TXN20250005968,2025-08-21 01:25:58,Transport,314.97,KES,USSD,Small Business Owner,Kiambu,Pending,Thursday,False,False,False,False,8,1,Thursday
 TXN20250001414,2025-01-07 19:24:38,Groceries,2446.49,KES,Web Checkout,Student,Nairobi,Successful,Tuesday,False,False,False,False,1,19,Tuesday
@@ -13204,7 +13204,7 @@ TXN20250008660,2025-06-24 11:04:00,Food & Dining,319.94,KES,Mobile Wallet,Salari
 TXN20250005398,2025-02-22 16:03:11,Food & Dining,1324.11,KES,In-App Payment,Gig Worker,Other,Pending,Saturday,False,False,False,False,2,16,Saturday
 TXN20250017667,2025-12-23 08:15:26,Subscriptions,141.99,KES,In-App Payment,Student,Mombasa,Successful,Tuesday,False,False,False,False,12,8,Tuesday
 TXN20250012759,2025-08-30 20:30:15,Shopping,1119.0,KES,In-App Payment,Student,Mombasa,Successful,Saturday,False,False,False,False,8,20,Saturday
-TXN20250002520 ,2025-03-18 15:38:35,Healthcare,780.2,KES,NFC / Contactless,Self-Employed,Eldoret,Successful,Tuesday,False,False,False,False,3,15,Tuesday
+TXN20250002520,2025-03-18 15:38:35,Healthcare,780.2,KES,NFC / Contactless,Self-Employed,Eldoret,Successful,Tuesday,False,False,False,False,3,15,Tuesday
 TXN20250015572,2025-08-17 15:28:26,Groceries,236.25,KES,NFC / Contactless,Retired,Mombasa,Successful,Sunday,False,False,False,False,8,15,Sunday
 TXN20250009100,2025-10-03 03:06:09,Groceries,2072.02,KES,QR Payment,Self-Employed,Machakos,Successful,Friday,False,False,False,False,10,3,Friday
 TXN20250014726,2025-03-13 04:09:57,Education,3269.08,KES,USSD,Salaried Employee,Other,Successful,Thursday,False,False,False,False,3,4,Thursday
@@ -14349,7 +14349,7 @@ TXN20250000358,2025-11-02 15:43:25,Fuel,4578.76,KES,USSD,Other,Machakos,Successf
 TXN20250011800,2025-05-17 02:54:43,Shopping,887.01,KES,QR Payment,Retired,Nakuru,Successful,Saturday,False,False,False,False,5,2,Saturday
 TXN20250009278,2025-07-20 11:54:56,Food & Dining,3665.17,KES,In-App Payment,Retired,Nairobi,Successful,Sunday,False,False,False,False,7,11,Sunday
 TXN20250015289,2025-09-26 14:20:23,Entertainment,5462.95,KES,QR Payment,Salaried Employee,Nairobi,Successful,Friday,False,False,False,False,9,14,Friday
-TXN20250017953 ,2025-09-28 05:35:16,Shopping,306.59,KES,USSD,Self-Employed,Nairobi,Successful,Sunday,False,False,False,False,9,5,Sunday
+TXN20250017953,2025-09-28 05:35:16,Shopping,306.59,KES,USSD,Self-Employed,Nairobi,Successful,Sunday,False,False,False,False,9,5,Sunday
 TXN20250005338,2025-04-22 09:58:58,Transport,567.9,KES,USSD,Student,Kiambu,Successful,Tuesday,False,False,False,False,4,9,Tuesday
 TXN20250002562,2025-06-05 14:18:34,Subscriptions,1142.55,KES,NFC / Contactless,Gig Worker,Nairobi,Successful,Thursday,False,False,False,False,6,14,Thursday
 TXN20250003364,2025-11-19 22:24:26,Entertainment,2517.45,KES,USSD,Salaried Employee,Mombasa,Successful,Wednesday,False,False,False,False,11,22,Wednesday
@@ -14712,7 +14712,7 @@ TXN20250007743,2025-04-24 21:46:46,Food & Dining,121.44,KES,Unknown,Other,Kisumu
 TXN20250014314,2025-01-24 19:35:19,Transport,359.67,KES,Mobile Wallet,Salaried Employee,Eldoret,Successful,Friday,False,False,False,False,1,19,Friday
 TXN20250003389,2025-10-12 21:53:38,Food & Dining,2048.6,KES,QR Payment,Small Business Owner,Nairobi,Successful,Sunday,False,False,False,False,10,21,Sunday
 TXN20250004996,2025-02-21 01:25:04,Utilities,1987.53,KES,Mobile Wallet,Gig Worker,Nakuru,Successful,Friday,False,False,False,False,2,1,Friday
-TXN20250014644 ,2025-03-17 01:03:57,Education,1533.53,KES,USSD,Salaried Employee,Mombasa,Successful,Monday,False,False,False,False,3,1,Monday
+TXN20250014644,2025-03-17 01:03:57,Education,1533.53,KES,USSD,Salaried Employee,Mombasa,Successful,Monday,False,False,False,False,3,1,Monday
 TXN20250003311,2025-01-03 23:46:44,Transport,386.12,KES,In-App Payment,Salaried Employee,Mombasa,Successful,Friday,False,False,False,False,1,23,Friday
 TXN20250000403,2025-09-14 08:34:27,Food & Dining,1299.04,KES,USSD,Salaried Employee,Nairobi,Successful,Sunday,False,False,False,False,9,8,Sunday
 TXN20250002853,2025-08-28 16:30:13,Transport,289.61,KES,Mobile Wallet,Student,Nairobi,Successful,Thursday,False,False,False,False,8,16,Thursday
@@ -15462,7 +15462,7 @@ TXN20250014606,2025-12-08 09:20:47,Subscriptions,532.86,KES,Mobile Wallet,Studen
 TXN20250013276,2025-11-10 00:42:25,Food & Dining,151.76,KES,In-App Payment,Salaried Employee,Nairobi,Successful,Monday,False,False,False,False,11,0,Monday
 TXN20250004119,2025-05-28 20:02:32,Food & Dining,622.83,KES,Mobile Wallet,Student,Nairobi,Successful,Wednesday,False,False,False,False,5,20,Wednesday
 TXN20250000905,2025-05-30 06:43:01,Groceries,,KES,USSD,Self-Employed,Eldoret,Successful,Friday,False,False,False,False,5,6,Friday
-TXN20250001384 ,2025-03-16 02:14:03,Healthcare,1087.91,KES,Mobile Wallet,Small Business Owner,Nakuru,Successful,Sunday,False,False,False,False,3,2,Sunday
+TXN20250001384,2025-03-16 02:14:03,Healthcare,1087.91,KES,Mobile Wallet,Small Business Owner,Nakuru,Successful,Sunday,False,False,False,False,3,2,Sunday
 TXN20250016839,2025-11-26 13:59:38,Food & Dining,1034.42,KES,Mobile Wallet,Self-Employed,Nairobi,Successful,Wednesday,False,False,False,False,11,13,Wednesday
 TXN20250008761,,Entertainment,112.43,KES,Mobile Wallet,Gig Worker,Nairobi,Successful,Tuesday,False,False,False,False,,,
 TXN20250017635,2025-10-27 18:13:53,Food & Dining,809.09,KES,Mobile Wallet,Other,Other,Successful,Monday,False,False,False,False,10,18,Monday
@@ -15724,7 +15724,7 @@ TXN20250017959,2025-09-02 09:13:49,Food & Dining,125.63,KES,QR Payment,Student,N
 TXN20250014957,2025-02-24 05:33:53,Fuel,4732.7,KES,In-App Payment,Salaried Employee,Nakuru,Successful,Monday,False,False,False,False,2,5,Monday
 TXN20250006141,2025-03-16 19:04:39,Food & Dining,492.85,KES,In-App Payment,Small Business Owner,Eldoret,Successful,Sunday,False,False,False,False,3,19,Sunday
 TXN20250004493,2025-12-18 11:40:27,Groceries,1167.29,KES,Mobile Wallet,Salaried Employee,Machakos,Successful,Thursday,False,False,False,False,12,11,Thursday
-TXN20250002982 ,2025-02-02 15:18:43,Fuel,1101.96,KES,Unknown,Gig Worker,Nairobi,Successful,Sunday,False,False,False,False,2,15,Sunday
+TXN20250002982,2025-02-02 15:18:43,Fuel,1101.96,KES,Unknown,Gig Worker,Nairobi,Successful,Sunday,False,False,False,False,2,15,Sunday
 TXN20250010072,2025-06-22 13:18:59,Groceries,870.63,KES,QR Payment,Retired,Kisumu,Successful,Sunday,False,False,False,False,6,13,Sunday
 TXN20250003188,2025-06-04 09:11:39,Education,6253.92,KES,NFC / Contactless,Salaried Employee,Kisumu,Successful,Wednesday,False,False,False,False,6,9,Wednesday
 TXN20250003846,2025-11-05 22:18:18,Groceries,215.92,KES,Web Checkout,Salaried Employee,Eldoret,Successful,Wednesday,False,False,False,False,11,22,Wednesday
@@ -16038,7 +16038,7 @@ TXN20250012743,2025-11-03 23:06:03,Shopping,3097.29,KES,Mobile Wallet,Small Busi
 TXN20250011370,2025-03-01 15:09:29,Subscriptions,282.2,KES,In-App Payment,Self-Employed,Nakuru,Successful,Saturday,False,False,False,False,3,15,Saturday
 TXN20250015717,2025-11-16 05:39:29,Groceries,1388.24,KES,QR Payment,Other,Kisumu,Successful,Sunday,False,False,False,False,11,5,Sunday
 TXN20250007518,2025-07-01 07:57:16,Entertainment,910.48,KES,QR Payment,Other,Other,Successful,Tuesday,False,False,False,False,7,7,Tuesday
-TXN20250001178 ,2025-07-17 00:07:05,Entertainment,2532.96,KES,Mobile Wallet,Student,Mombasa,Successful,Thursday,False,False,False,False,7,0,Thursday
+TXN20250001178,2025-07-17 00:07:05,Entertainment,2532.96,KES,Mobile Wallet,Student,Mombasa,Successful,Thursday,False,False,False,False,7,0,Thursday
 TXN20250006957,2025-02-13 08:44:12,Transport,164.66,KES,QR Payment,Student,Mombasa,Successful,Thursday,False,False,False,False,2,8,Thursday
 TXN20250010131,2025-08-31 19:47:16,Healthcare,553.61,KES,Web Checkout,Retired,Nakuru,Successful,Sunday,False,False,False,False,8,19,Sunday
 TXN20250016105,2025-02-01 12:17:05,Cash Transfer,3618.62,KES,USSD,Student,Nairobi,Successful,Saturday,False,False,False,False,2,12,Saturday
@@ -16222,7 +16222,7 @@ TXN20250011699,2025-04-05 20:43:18,Shopping,3113.02,KES,Mobile Wallet,Unknown,El
 TXN20250006583,2025-04-07 08:06:23,Groceries,,KES,Web Checkout,Small Business Owner,Other,Successful,Monday,False,False,False,False,4,8,Monday
 TXN20250008345,2025-12-19 01:25:42,Travel,21446.26,KES,Web Checkout,Self-Employed,Nairobi,Successful,Friday,False,False,False,False,12,1,Friday
 TXN20250006093,2025-06-19 22:51:11,Food & Dining,138.11,KES,Web Checkout,Student,Nairobi,Successful,Thursday,False,False,False,False,6,22,Thursday
-TXN20250000289 ,2025-11-19 04:47:02,Travel,5141.8,KES,Web Checkout,Salaried Employee,Nakuru,Successful,Wednesday,False,False,False,False,11,4,Wednesday
+TXN20250000289,2025-11-19 04:47:02,Travel,5141.8,KES,Web Checkout,Salaried Employee,Nakuru,Successful,Wednesday,False,False,False,False,11,4,Wednesday
 TXN20250004052,2025-02-03 20:12:18,Groceries,715.21,KES,Web Checkout,Self-Employed,Nairobi,Successful,Monday,False,False,False,False,2,20,Monday
 TXN20250014534,2025-09-07 07:57:22,Food & Dining,448.32,KES,NFC / Contactless,Self-Employed,Kisumu,Successful,Sunday,False,False,False,False,9,7,Sunday
 TXN20250013139,2025-07-01 11:23:57,Shopping,1641.21,KES,Mobile Wallet,Gig Worker,Nairobi,Successful,Tuesday,False,False,False,False,7,11,Tuesday
@@ -16252,7 +16252,7 @@ TXN20250016145,2025-02-25 18:19:16,Shopping,11024.06,KES,Mobile Wallet,Self-Empl
 TXN20250007600,2025-12-01 18:35:15,Food & Dining,1348.87,KES,Mobile Wallet,Salaried Employee,Nakuru,Successful,Monday,False,False,False,False,12,18,Monday
 TXN20250005988,2025-10-12 11:34:02,Utilities,2966.93,KES,In-App Payment,Salaried Employee,Machakos,Successful,Sunday,False,False,False,False,10,11,Sunday
 TXN20250017065,2025-09-27 13:14:17,Shopping,1059.48,KES,Web Checkout,Self-Employed,Nairobi,Successful,Saturday,False,False,False,False,9,13,Saturday
-TXN20250011210 ,2025-05-12 23:43:37,Entertainment,1086.74,KES,Mobile Wallet,Salaried Employee,Eldoret,Successful,Monday,False,False,False,False,5,23,Monday
+TXN20250011210,2025-05-12 23:43:37,Entertainment,1086.74,KES,Mobile Wallet,Salaried Employee,Eldoret,Successful,Monday,False,False,False,False,5,23,Monday
 TXN20250009339,2025-12-21 13:56:17,Travel,3139.15,KES,Unknown,Other,Nairobi,Successful,Sunday,False,False,False,False,12,13,Sunday
 TXN20250001220,2025-02-11 16:47:26,Education,6720.33,KES,USSD,Self-Employed,Nairobi,Successful,Tuesday,False,False,False,False,2,16,Tuesday
 TXN20250000948,2025-06-01 05:22:34,Groceries,658.6,KES,In-App Payment,Small Business Owner,Mombasa,Successful,Sunday,False,False,False,False,6,5,Sunday
@@ -16422,7 +16422,7 @@ TXN20250016519,2025-02-14 11:54:14,Shopping,6627.61,KES,In-App Payment,Salaried 
 TXN20250006380,2025-09-02 13:18:06,Subscriptions,555.93,KES,USSD,Self-Employed,Eldoret,Successful,Tuesday,False,False,False,False,9,13,Tuesday
 TXN20250003345,2025-09-01 19:46:53,Transport,394.1,KES,QR Payment,Salaried Employee,Mombasa,Successful,Monday,False,False,False,False,9,19,Monday
 TXN20250013465,2025-01-14 21:47:12,Healthcare,2372.18,KES,In-App Payment,Student,Mombasa,Successful,Tuesday,False,False,False,False,1,21,Tuesday
-TXN20250013992 ,2025-08-14 05:33:30,Cash Transfer,3085.42,KES,Mobile Wallet,Salaried Employee,Eldoret,Failed,Thursday,False,False,False,False,8,5,Thursday
+TXN20250013992,2025-08-14 05:33:30,Cash Transfer,3085.42,KES,Mobile Wallet,Salaried Employee,Eldoret,Failed,Thursday,False,False,False,False,8,5,Thursday
 TXN20250003866,2025-05-02 04:06:25,Shopping,564.11,KES,Mobile Wallet,Small Business Owner,Kisumu,Successful,Friday,False,False,False,False,5,4,Friday
 TXN20250013014,2025-02-06 14:07:37,Food & Dining,1102.81,KES,Mobile Wallet,Salaried Employee,Nairobi,Successful,Thursday,False,False,False,False,2,14,Thursday
 TXN20250006974,2025-04-18 15:53:51,Healthcare,1963.05,KES,Mobile Wallet,Small Business Owner,Machakos,Reversed,Friday,False,False,False,False,4,15,Friday
@@ -16649,7 +16649,7 @@ TXN20250017058,2025-05-30 13:36:22,Entertainment,66.45,KES,In-App Payment,Small 
 TXN20250003278,2025-12-13 03:49:45,Cash Transfer,5930.02,KES,Web Checkout,Salaried Employee,Kiambu,Successful,Saturday,False,False,False,False,12,3,Saturday
 TXN20250017573,2025-05-14 11:00:22,Groceries,1090.58,KES,USSD,Student,Nairobi,Successful,Wednesday,False,False,False,False,5,11,Wednesday
 TXN20250000301,2025-06-13 06:57:29,Transport,196.57,KES,Mobile Wallet,Unknown,Nairobi,Successful,Friday,False,False,False,False,6,6,Friday
-TXN20250009132 ,2025-11-25 23:01:32,Shopping,7671.97,KES,Mobile Wallet,Student,Mombasa,Successful,Tuesday,False,False,False,False,11,23,Tuesday
+TXN20250009132,2025-11-25 23:01:32,Shopping,7671.97,KES,Mobile Wallet,Student,Mombasa,Successful,Tuesday,False,False,False,False,11,23,Tuesday
 TXN20250012780,2025-07-27 18:23:02,Food & Dining,910.26,KES,Mobile Wallet,Self-Employed,Kisumu,Successful,Sunday,False,False,False,False,7,18,Sunday
 TXN20250012772,2025-05-17 01:46:07,Healthcare,3403.33,KES,QR Payment,Small Business Owner,Kiambu,Successful,Saturday,False,False,False,False,5,1,Saturday
 TXN20250009050,2025-12-02 05:57:42,Groceries,569.0,KES,Mobile Wallet,Salaried Employee,Nakuru,Successful,Tuesday,False,False,False,False,12,5,Tuesday
@@ -16864,7 +16864,7 @@ TXN20250017283,2025-12-06 12:30:44,Fuel,1060.8,KES,Web Checkout,Salaried Employe
 TXN20250012500,2025-07-04 12:25:44,Travel,24765.1,KES,In-App Payment,Salaried Employee,Nairobi,Successful,Friday,False,False,False,False,7,12,Friday
 TXN20250010301,2025-01-02 03:55:33,Shopping,5264.66,KES,Web Checkout,Self-Employed,Nairobi,Successful,Thursday,False,False,False,False,1,3,Thursday
 TXN20250006588,2025-11-18 21:17:49,Subscriptions,413.68,KES,QR Payment,Student,Nyeri,Successful,Tuesday,False,False,False,False,11,21,Tuesday
-TXN20250017580 ,2025-09-27 23:03:38,Healthcare,537.71,KES,Mobile Wallet,Small Business Owner,Mombasa,Successful,Saturday,False,False,False,False,9,23,Saturday
+TXN20250017580,2025-09-27 23:03:38,Healthcare,537.71,KES,Mobile Wallet,Small Business Owner,Mombasa,Successful,Saturday,False,False,False,False,9,23,Saturday
 TXN20250006681,2025-02-14 10:17:24,Utilities,1195.29,KES,Web Checkout,Salaried Employee,Nairobi,Successful,Friday,False,False,False,False,2,10,Friday
 TXN20250008664,2025-09-10 08:11:08,Fuel,1064.6,KES,USSD,Salaried Employee,Mombasa,Successful,Wednesday,False,False,False,False,9,8,Wednesday
 TXN20250006736,2025-07-06 11:10:55,Unknown,799.35,KES,NFC / Contactless,Self-Employed,Mombasa,Successful,Sunday,False,False,False,False,7,11,Sunday
@@ -17590,7 +17590,7 @@ TXN20250011209,2025-03-12 23:23:06,Transport,1599.94,KES,QR Payment,Other,Machak
 TXN20250006584,2025-06-12 12:47:15,Shopping,3027.4,KES,Web Checkout,Salaried Employee,Machakos,Successful,Thursday,False,False,False,False,6,12,Thursday
 TXN20250016200,2025-02-09 12:26:36,Transport,232.71,KES,Web Checkout,Self-Employed,Machakos,Successful,Sunday,False,False,False,False,2,12,Sunday
 TXN20250006208,2025-09-14 03:17:52,Shopping,5656.63,KES,Web Checkout,Gig Worker,Mombasa,Successful,Sunday,False,False,False,False,9,3,Sunday
-TXN20250000926 ,2025-09-16 00:38:10,Food & Dining,506.54,KES,Mobile Wallet,Salaried Employee,Mombasa,Successful,Tuesday,False,False,False,False,9,0,Tuesday
+TXN20250000926,2025-09-16 00:38:10,Food & Dining,506.54,KES,Mobile Wallet,Salaried Employee,Mombasa,Successful,Tuesday,False,False,False,False,9,0,Tuesday
 TXN20250003885,2025-03-23 15:47:26,Shopping,872.05,KES,In-App Payment,Salaried Employee,Nairobi,Successful,Sunday,False,False,False,False,3,15,Sunday
 TXN20250004916,2025-06-28 15:08:44,Groceries,816.61,KES,Mobile Wallet,Salaried Employee,Kisumu,Failed,Saturday,False,False,False,False,6,15,Saturday
 TXN20250006798,2025-10-27 09:26:37,Transport,192.39,KES,Web Checkout,Self-Employed,Machakos,Successful,Monday,False,False,False,False,10,9,Monday
