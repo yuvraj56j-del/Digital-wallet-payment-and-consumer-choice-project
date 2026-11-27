@@ -39,9 +39,9 @@ We analysed a synthetic 2025 digital wallet transactions dataset of Kenya to und
 | Member Name | Responsibility | Deliverable |
 |------------|---------------|-------------|
 | Yuvraj | Project Documentation | README.md |
-| Nduta | Project Proposal | proposal.md / proposal document |
-| Godwinnfrey | Data Source Documentation | DATA_SOURCE.md |
-| Ishmail | Schema Documentation | SCHEMA.md (review and verify column descriptions) |
+| Nduta | Project Proposal | report/Group06_Proposal.pdf |
+| Godwinfrey | Data Source Documentation | data/DATA_SOURCE.md |
+| Ismail | Schema Documentation | docs/dataset_schema.md (reviewed and verified column descriptions) |
 | Morris | Notebook Updates and Evidence | Notebook changes and project screenshots |
 
 ## Project Progress
