@@ -34,3 +34,15 @@ Team Members
 | 6. | Jediel Njagi Wambura | 2026014700 |
 
 
+## Team Member Responsibilities
+
+| Member Name | Responsibility | Deliverable |
+|------------|---------------|-------------|
+| Yuvraj | Project Documentation | README.md |
+| Nduta | Project Proposal | proposal.md / proposal document |
+| Godwinnfrey | Data Source Documentation | DATA_SOURCE.md |
+| Ishmail | Schema Documentation | SCHEMA.md (review and verify column descriptions) |
+| Morris | Notebook Updates and Evidence | Notebook changes and project screenshots |
+
+
+
