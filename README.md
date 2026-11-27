@@ -52,7 +52,16 @@ We analysed 2025 digital wallet transactions in Kenya to understand what custome
 | 2 | Inspect, validate and profile the dataset | `02_exploration.ipynb`, data dictionary, quality audit table | Done |
 | 3 | Cleaning and first analysis | | In progress |
 
-## Week 2: Data Inspection and Quality Audit
+## Week 2 Roles and Contributions
+
+| Member | Role | Week 2 task | Brief item | Files |
+|---|---|---|---|---|
+| `<Name 1>` | Project lead | Wrote the five initial observations with evidence, updated the README and progress table, checked that everyone committed | 6 | `README.md`, observations section of `notebooks/02_exploration.ipynb` |
+| `<Name 2>` | Data lead | Built and checked the data dictionary for all 10 columns (type, meaning, categories, expected missing values) | 3 | `data/DATA_DICTIONARY.md` |
+| `<Name 3>` | Loading and first-look lead | Loaded the data from a relative path and ran `head(10)`, `tail(5)`, `shape`, `info()`, `dtypes` and `describe(include="all")` | 1, 2 | `notebooks/02_exploration.ipynb` (sections 1-2) |
+| `<Name 4>` | Validation lead | Wrote the reusable functions (`validate_columns()`, `summarize_missingness()`) and ran the checks for nulls, duplicates, invalid amounts, categories and date parsing without changing the source data | 4, 5 | `notebooks/02_exploration.ipynb` (sections 3-4) |
+| `<Name 5>` | Audit lead | Wrote the quality audit table and the three potential data-quality issues with evidence | 4, 6 | `report/quality_audit.csv`, issues section of `notebooks/02_exploration.ipynb` |
+## Data Inspection and Quality Audit
 
 **What we did**
 - Loaded the raw dataset with Pandas and inspected it using `head()`, `tail()`, `shape`, `info()`, `dtypes` and `describe()`.
