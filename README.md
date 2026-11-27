@@ -7,7 +7,7 @@ DSA 1080A Programming for Data Science | Future Data Lab group project
 **Group:** 06 | **Repository:** https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project.git
 
 ## Project overview
-We analysed 2025 digital wallet transactions in Kenya to understand what customers spend on, how, where and when they pay, and where payments fail. The work uses Python, Pandas and Matplotlib only.
+We analysed a synthethic 2025 digital wallet transactions dataset of Kenya to understand what customers spend on, how, where and when they pay, and where payments fail. The work uses Python, Pandas and Matplotlib only.
 
 **Specific objectives**
 1. Identify the spending categories, customer segments and regions that account for most transaction value.
