@@ -48,7 +48,7 @@ We analysed 2025 digital wallet transactions in Kenya to understand what custome
 
 | Week | Focus | Deliverables | Status |
 |---|---|---|---|
-| 1 | Problem definition, data acquisition, GitHub setup | Proposal, objectives and research questions, dataset source notes, `01_week1_intro.ipynb`, dataset schema | Done |
+| 1 | Problem definition, data acquisition, GitHub setup | Proposal, objectives and research questions, dataset source notes, `01_foundation.ipynb`, dataset schema | Done |
 | 2 | Inspect, validate and profile the dataset | `02_exploration.ipynb`, data dictionary, quality audit table | Done |
 | 3 | Cleaning and first analysis | | In progress |
 
