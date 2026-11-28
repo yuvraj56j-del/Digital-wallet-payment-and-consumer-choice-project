@@ -90,5 +90,38 @@ We analysed a synthetic 2025 digital wallet transactions dataset of Kenya to und
 - Data dictionary: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/data_dictionary.md
 - Quality audit: https://github.com/yuvraj56j-del/Digital-wallet-payment-and-consumer-choice-project/blob/main/docs/quality_audit.md
 
+## Week 3: Cleaning and First Analysis
 
+**What we did**
+- Cleaned a copy of the raw data (the raw file is never changed) and saved it to `data/processed/digital_payment_transactions_cleaned.csv`: 18,000 rows x 17 columns, above the 15,000 x 10 minimum.
+- Recorded every cleaning decision and its reason in `docs/cleaning_log.md`.
+- Flagged repeated IDs, invalid amounts and outliers instead of deleting them. No rows were dropped.
+- Answered seven analytical questions, each with a result table and an interpretation.
+
+**Before / after cleaning**
+
+| Measure | Before | After |
+|---|---|---|
+| Rows | 18,000 | 18,000 (100% retained) |
+| Null cells (10 original columns) | 1,330 | 221 |
+| Blanks labelled "Unknown" | 0 | 993 |
+| Fully duplicated rows | 0 | 0 |
+| Repeated transaction IDs | 35 | 35 (flagged, kept) |
+| Fields corrected | 0 | 1,780 |
+
+**Files**
+- Notebook: `notebooks/03_cleaning_analysis.ipynb`
+- Cleaning log: `docs/cleaning_log.md`
+- Processed dataset: `data/processed/digital_payment_transactions_cleaned.csv`
+
+## Week 3 Roles and Contributions
+
+| Member | What they did in Week 3 | Files |
+|---|---|---|
+| Yuvraj | | |
+| Godwinfrey | | |
+| Nduta | | |
+| Morris | | |
+| Ismail | | |
+| Jediel | | |
 
